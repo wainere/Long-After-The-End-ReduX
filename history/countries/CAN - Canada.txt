@@ -1,0 +1,7 @@
+setup_vision = yes
+government = monarchy
+add_government_reform = canadian_empire
+technology_group = eastern
+religion = anglican
+primary_culture = ontarian
+capital = 4537	# Ottawa

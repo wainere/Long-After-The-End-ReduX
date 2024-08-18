@@ -1,0 +1,25 @@
+#373 - Meath
+
+owner = GRN
+controller = GRN
+add_core = GRN
+culture = irish
+religion = celticist
+hre = no
+base_tax = 6
+base_production = 6
+trade_goods = unknown
+base_manpower = 3
+capital = "Dublin"
+is_city = no
+
+
+
+ 
+
+
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

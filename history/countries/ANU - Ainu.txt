@@ -1,0 +1,19 @@
+setup_vision = yes
+government = monarchy 
+add_government_reform = daimyo
+government_rank = 1
+primary_culture = ainu
+religion = shinto
+technology_group = high_eurasian
+capital = 1852
+
+
+1444.11.11 = {
+	monarch = {
+		name = "Native Council"
+		adm = 3
+		dip = 3
+		mil = 3
+		regent = yes
+	}
+}

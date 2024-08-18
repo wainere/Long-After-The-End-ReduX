@@ -1,0 +1,25 @@
+# 100 Friesland - Principal cities: Groningen & Leeuwarden
+
+#owner = FRI
+#controller = FRI
+capital = "Groningen"
+is_city = no
+culture = dutch
+religion = cult_of_reason
+hre = no
+base_tax = 1
+base_production = 1
+trade_goods = unknown
+base_manpower = 1
+#add_core= FRI
+
+
+
+ 
+
+
+
+
+native_size = 5
+native_ferocity = 10
+native_hostileness = 10

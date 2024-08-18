@@ -1,0 +1,22 @@
+#4240 - Fej�r (Fej�r + Veszpr�m + Gy�r + parts of Kom�rom)
+
+#owner = HUN
+#controller = HUN 
+culture = hungarian
+religion = finnish_pagan_reformed
+capital = "Feh�rv�r"
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+is_city = yes
+#estate = #estate_church
+#add_core = HUN
+ 
+
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

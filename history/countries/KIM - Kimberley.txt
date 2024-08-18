@@ -1,0 +1,10 @@
+# Kimberley
+setup_vision = yes
+government = monarchy 
+
+government_rank = 2
+mercantilism = 0.1
+technology_group = south_african
+primary_culture = afrikaner
+religion = mwari
+capital = 2880

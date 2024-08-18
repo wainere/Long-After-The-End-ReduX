@@ -1,0 +1,23 @@
+#820 - Quito
+
+owner = ECU
+controller = ECU
+culture = quiteno
+
+
+
+
+
+religion = sacred_heart
+capital = "Quito"
+is_city = yes
+trade_goods = cloth
+hre = no
+base_tax = 6 
+base_production = 6
+base_manpower = 2
+add_core = ECU
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

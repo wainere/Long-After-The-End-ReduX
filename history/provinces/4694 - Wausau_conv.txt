@@ -1,0 +1,14 @@
+owner = NWD
+controller = NWD
+add_core = NWD
+
+culture = dellsman
+religion = norse_pagan_reformed
+is_city = yes
+
+
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 3
+trade_goods = fur

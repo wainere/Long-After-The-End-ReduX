@@ -1,0 +1,18 @@
+owner = RED
+controller = RED
+add_core = RED
+add_core = MCS
+
+culture = british
+religion = glorian
+is_city = yes
+
+
+hre = no
+base_tax = 5
+base_production = 5
+base_manpower = 6
+trade_goods = cloth
+center_of_trade = 1 
+
+add_province_triggered_modifier = walden_pond

@@ -1,0 +1,22 @@
+owner = CBN
+controller = CBN
+add_core = CBN
+culture = cubano
+religion = rastafarian
+is_city = yes
+add_core = X71
+
+trade_goods = naval_supplies
+3053.1.1 = {
+	hre = no
+	base_tax = 8
+	base_production = 8
+	base_manpower = 6
+}
+3053.1.1 = {
+	owner = CBN
+	controller = CBN
+	culture = cubano
+	religion = rastafarian
+	trade_goods = naval_supplies
+}

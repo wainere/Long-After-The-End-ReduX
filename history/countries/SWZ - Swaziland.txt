@@ -1,0 +1,10 @@
+# Swaziland
+setup_vision = yes
+government = monarchy 
+
+government_rank = 1
+mercantilism = 0.1
+technology_group = south_african
+primary_culture = nguni 
+religion = mwari
+capital = 4731

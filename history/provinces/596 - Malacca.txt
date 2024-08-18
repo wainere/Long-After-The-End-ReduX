@@ -1,0 +1,27 @@
+#596 - Malacca
+
+owner = MSA
+controller = MSA
+culture = malayan
+religion = sunni
+capital = "Malacca"
+trade_goods = spices
+hre = no
+base_tax = 7 
+base_production = 7
+base_manpower = 3
+is_city = yes
+add_core= MSA
+add_core= MLC
+
+
+
+extra_cost = 15
+
+center_of_trade = 2
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3
+

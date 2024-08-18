@@ -1,0 +1,14 @@
+owner = Z01
+controller = Z01
+add_core = Z01
+
+culture = tuskegean
+religion = protestant
+is_city = yes
+add_permanent_claim = Z10
+
+
+hre = yes
+base_tax = 4
+base_production = 4
+base_manpower = 2

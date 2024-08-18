@@ -1,0 +1,14 @@
+owner = CTN
+controller = CTN
+add_core = CTN
+
+culture = innu
+religion = ursuline
+is_city = yes
+
+
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 2
+trade_goods = naval_supplies

@@ -1,0 +1,23 @@
+# Three Mile Island
+setup_vision = yes
+government = monarchy 
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = eastern
+primary_culture = deitsch
+religion = americanist
+religious_school = jefferson_school
+
+clear_scripted_personalities = yes
+capital = 955
+3053.1.1= {
+	monarch = {
+		name = "Rupert"
+		birth_date = 3029.9.5
+		dynasty = "Farragut"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+	add_ruler_personality = scholar_personality
+}

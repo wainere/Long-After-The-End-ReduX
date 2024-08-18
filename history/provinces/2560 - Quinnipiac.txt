@@ -1,0 +1,15 @@
+owner = NYS
+controller = NYS
+add_core = NYS
+
+culture = gothamite
+religion = americanist
+is_city = yes
+add_core = CTC
+
+
+hre = no
+base_tax = 5
+base_production = 5
+base_manpower = 2
+trade_goods = tobacco

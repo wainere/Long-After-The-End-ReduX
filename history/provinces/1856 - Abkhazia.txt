@@ -1,0 +1,25 @@
+#1856 - Abkhazia
+
+culture = georgian
+religion = coptic
+capital = "Sukhumi"
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_size = 5
+native_ferocity = 1
+native_hostileness = 2
+
+add_core = ABK
+owner = ABK
+controller = ABK
+
+
+
+ 
+
+ 
+
+#

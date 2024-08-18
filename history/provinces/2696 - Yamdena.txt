@@ -1,0 +1,24 @@
+#2696 - Yamdena
+
+owner = TER
+controller = TER
+add_core = TER
+is_city = yes
+culture = moluccan
+religion = brethren
+capital = "Yamdena"
+trade_goods = unknown
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 3
+native_size = 10
+native_ferocity = 1
+native_hostileness = 2
+
+
+
+
+
+
+

@@ -1,0 +1,7 @@
+# Orania
+setup_vision = yes
+government = monarchy
+technology_group = south_african
+religion = mwari
+primary_culture = Afrikaner
+capital = 1177	# Cape

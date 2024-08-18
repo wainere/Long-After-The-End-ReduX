@@ -1,0 +1,17 @@
+owner = ONT
+controller = ONT
+add_core = ONT
+add_core = OTW
+
+culture = ontarian
+religion = anglican
+is_city = yes
+set_seat_in_parliament = yes
+
+hre = no
+base_tax = 4
+base_production = 6
+base_manpower = 4
+trade_goods = paper
+fort_15th = yes
+center_of_trade = 2

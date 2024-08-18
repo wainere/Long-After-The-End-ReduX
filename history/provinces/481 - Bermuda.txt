@@ -1,0 +1,25 @@
+#481 - Bermuda
+
+capital = "Hamilton"
+owner = BRM
+controller = BRM
+add_core = BRM
+culture = bermudian
+religion = brethren
+is_city = yes
+trade_goods = fish
+
+3053.1.1 = {
+	hre = no
+	base_tax = 8
+	base_production = 8
+	base_manpower = 4
+}
+3053.1.1 = {
+	owner = BRM
+	controller = BRM
+	culture = bermudian
+	religion = brethren
+}
+
+

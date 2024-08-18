@@ -1,0 +1,38 @@
+# The Badlands
+setup_vision = yes
+government = tribal 
+add_government_reform = steppe_horde
+government_rank = 2
+mercantilism = 0.1
+technology_group = nomad_group
+primary_culture = dakota
+religion = peyotist
+secondary_religion = catholic
+clear_scripted_personalities = yes
+capital = 2007
+3036.4.20 = {
+	monarch = {
+		name = "Weayaya"
+		birth_date = 3016.1.23
+		dynasty = "Nawkawid"
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+	add_ruler_personality = pious_personality
+	add_ruler_personality = cruel_personality
+}
+3041.5.16 = {
+	heir = {
+		name = "Chumani"
+		monarch_name = "Chumani"
+		dynasty = "Nawkawid"
+		birth_date = 3041.5.16
+		death_date = 3121.5.16
+		female = yes
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+	add_heir_personality = just_personality
+}

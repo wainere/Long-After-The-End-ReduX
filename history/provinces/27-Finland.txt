@@ -1,0 +1,22 @@
+#Finland, incl. �bo.
+
+#owner = SWE
+#controller = SWE
+#add_core= SWE
+#add_core= FIN
+culture = swedish
+religion = finnish_pagan_reformed
+hre = no
+base_tax = 3 
+base_production = 3
+trade_goods = grain
+base_manpower = 2
+capital = "�bo"
+is_city = no
+fort_15th = yes
+ 
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

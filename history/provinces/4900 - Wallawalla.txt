@@ -1,0 +1,14 @@
+owner = COV
+controller = COV
+add_core = COV
+
+culture = inlander
+religion = gaian
+trade_goods = wine
+is_city = yes
+
+
+hre = no
+base_tax = 2
+base_production = 1
+base_manpower = 2

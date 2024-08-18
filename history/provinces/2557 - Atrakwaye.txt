@@ -1,0 +1,15 @@
+owner = ESQ
+controller = ESQ
+add_core = ESQ
+
+culture = deitsch
+religion = americanist
+is_city = yes
+
+
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 3
+trade_goods = copper
+add_province_triggered_modifier = anabaptists_present_medium

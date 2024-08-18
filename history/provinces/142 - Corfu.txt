@@ -1,0 +1,19 @@
+#142 - Corfu
+
+#owner = CEP
+#controller = CEP
+culture = greek
+religion = hellenic_pagan
+capital = "Corfu"
+trade_goods = fish
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+is_city = no
+fort_15th = yes
+#add_core= CEP
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

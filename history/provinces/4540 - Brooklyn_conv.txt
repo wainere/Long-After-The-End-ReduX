@@ -1,0 +1,15 @@
+owner = NYS
+controller = NYS
+add_core = NYS
+add_core = LGI
+
+culture = gothamite
+religion = americanist
+is_city = yes
+
+
+hre = no
+base_tax = 8
+base_production = 8
+base_manpower = 5
+trade_goods = paper

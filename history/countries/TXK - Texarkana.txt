@@ -1,0 +1,21 @@
+# Texarkana
+setup_vision = yes
+government = monarchy 
+government_rank = 1
+technology_group = eastern
+primary_culture = texan
+religion = catholic
+clear_scripted_personalities = yes
+capital = 887
+3036.11.21 = {
+	monarch = {
+		name = "Austin"
+		birth_date = 3017.9.27
+		dynasty = "Galaxies"
+		adm = 3
+		dip = 4
+		mil = 0
+	}
+	add_ruler_personality = lawgiver_personality
+	add_ruler_personality = craven_personality
+}

@@ -1,0 +1,10 @@
+# Zimbabwe
+setup_vision = yes
+government = monarchy 
+
+government_rank = 2
+mercantilism = 0.1
+technology_group = south_african
+primary_culture = shona 
+religion = mwari
+capital = 2950

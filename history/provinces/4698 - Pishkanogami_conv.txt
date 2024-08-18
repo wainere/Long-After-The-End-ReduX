@@ -1,0 +1,14 @@
+owner = ALG #Algoma
+controller = ALG #Algoma
+add_core = ALG #Algoma
+
+culture = ojibwe
+religion = midewiwin
+is_city = yes
+
+
+hre = no
+base_tax = 2
+base_production = 3
+base_manpower = 2
+trade_goods = gold

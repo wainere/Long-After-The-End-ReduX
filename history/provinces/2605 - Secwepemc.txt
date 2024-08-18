@@ -1,0 +1,16 @@
+owner = KOO
+controller = KOO
+add_core = KOO
+
+culture = ktunaxa
+religion = gaian
+trade_goods = fur
+is_city = yes
+add_core = VIS
+
+
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 2
+	

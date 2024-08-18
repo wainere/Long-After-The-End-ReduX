@@ -1,0 +1,28 @@
+#Severia
+
+#owner = LIT
+#controller = LIT 
+culture = ryazanian
+religion = orthodox
+hre = no
+base_tax = 1
+base_production = 1
+trade_goods = unknown
+base_manpower = 1
+capital = "Novgorod-Seversky"
+is_city = no
+#add_core= CHR
+#add_core= LIT
+#estate = #estate_nobles
+ 
+
+ 
+
+
+
+#
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

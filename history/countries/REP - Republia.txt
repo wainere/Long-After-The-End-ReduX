@@ -1,0 +1,20 @@
+setup_vision = yes
+government = republic 
+add_government_reform = oligarchy_reform
+primary_culture = russian
+religion = atomicist
+religious_school = aphite_school
+technology_group = russian_group
+capital = 2417 #Kuma
+
+
+
+3000.1.1 = {
+	monarch = {
+		name = "Stephen"
+		dynasty = "Buzhansky"
+		adm = 5
+		dip = 3
+		mil = 2
+	}
+}

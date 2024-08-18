@@ -1,0 +1,26 @@
+# 169 Armor - Principal cities: Rennes
+
+#owner = BRI
+#controller = BRI
+capital = "Rennes"
+is_city = no
+culture = breton
+religion = cult_of_reason
+hre = no
+base_tax = 1
+base_production = 1
+trade_goods = unknown
+base_manpower = 1
+#estate = #estate_church
+#add_core= BRI
+
+
+
+ 
+
+
+
+
+native_size = 5
+native_ferocity = 10
+native_hostileness = 10

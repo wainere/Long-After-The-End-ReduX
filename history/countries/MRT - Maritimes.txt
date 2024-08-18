@@ -1,0 +1,30 @@
+# The Maritimes
+setup_vision = yes
+government = monarchy 
+add_government_reform = maritimer_united_duchies
+government_rank = 2
+technology_group = eastern
+primary_culture = maritimer
+add_accepted_culture = acadien
+religion = anglican
+capital = 4549
+
+historical_friend = ONT
+historical_friend = HUD
+historical_rival = RED
+historical_rival = TAQ
+
+3051.1.14 = {
+	monarch = {
+		name = "Ophelia"
+		female = yes
+		birth_date = 3045.5.11
+		dynasty = "Carmody"
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+	add_ruler_personality = expansionist_personality
+}
+change_statists_vs_orangists = 0.1
+remove_accepted_culture = acadien

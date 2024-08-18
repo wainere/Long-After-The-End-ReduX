@@ -1,0 +1,9 @@
+setup_vision = yes
+government = monarchy 
+add_government_reform = autocracy_reform 
+primary_culture = papuan
+religion = sunni
+technology_group = oceanic
+capital = 1237	# Port Moresby
+religious_school = shafii_school
+

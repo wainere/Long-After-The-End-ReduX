@@ -1,0 +1,17 @@
+#483 - Turks Islands
+
+owner = X75
+capital = "Cockburn Town"
+controller = X75
+add_core = X75
+culture = west_indian
+religion = rastafarian
+is_city = yes
+
+trade_goods = tobacco
+3053.1.1 = {
+	hre = yes
+	base_tax = 3
+	base_production = 3
+	base_manpower = 2
+}

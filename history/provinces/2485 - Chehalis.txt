@@ -1,0 +1,14 @@
+owner = SEA
+controller = SEA
+add_core = SEA
+
+culture = cascadian
+religion = raven_tales
+trade_goods = livestock
+is_city = yes
+
+
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 2

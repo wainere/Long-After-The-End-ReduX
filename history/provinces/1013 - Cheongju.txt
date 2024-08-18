@@ -1,0 +1,32 @@
+#1013 - Cheongju
+
+#owner = KOR
+#controller = KOR
+culture = korean
+religion = confucianism
+capital = "Cheongju"
+trade_goods = grain
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 2
+is_city = no
+#add_core= KOR
+
+#
+
+ # Tome Pires
+# = { #controller = ODA unrest = 5 } # Japanese invasion - Battle of Cheongju
+# = { #controller = KOR unrest = 0 } # With Chinese help the Japanese are driven back
+# = { #controller = ODA unrest = 5 } # Japanese invasion - 2nd Battle of Cheongju
+# = { #controller = KOR unrest = 0 } # the Japanese retreat south
+# = { #add_core= MNG } # Tributary of Qing China
+# = { #add_core= MCH  } # Part of the Manchu empire
+# = { #add_core= QNG  }
+ # Hendrick Hamel
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3
+

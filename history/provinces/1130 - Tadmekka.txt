@@ -1,0 +1,16 @@
+#1130 - Tadimekket
+
+culture = tuareg
+base_manpower = 1
+religion = sunni
+capital = "Tadmekka al-Suq"
+trade_goods = unknown
+hre = no
+base_tax = 1 
+base_production = 1
+native_size = 10
+native_ferocity = 1
+native_hostileness = 3
+
+
+

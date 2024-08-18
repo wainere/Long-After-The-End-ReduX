@@ -1,0 +1,25 @@
+#2704 - Sibu
+
+owner = MSA
+controller = MSA
+culture = bornean
+religion = brethren
+capital = "Sibu"
+trade_goods = spices
+hre = no
+base_tax = 5
+base_production = 5
+base_manpower = 3
+is_city = yes
+add_core= MSA
+
+
+
+
+
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3
+

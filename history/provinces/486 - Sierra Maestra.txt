@@ -1,0 +1,16 @@
+owner = CBN
+controller = CBN
+add_core = CBN
+capital = "Santiago de Cuba"
+culture = afrocubano
+religion = santeria
+is_city = yes
+add_core = X73
+
+trade_goods = tropical_wood
+3053.1.1 = {
+	hre = no
+	base_tax = 6
+	base_production = 6
+	base_manpower = 3
+}

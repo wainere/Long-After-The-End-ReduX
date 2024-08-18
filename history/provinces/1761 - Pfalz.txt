@@ -1,0 +1,23 @@
+#1761 - Pfalz
+
+capital = "Worms"
+culture = hessian
+religion = cult_of_reason
+trade_goods = unknown
+owner = PAL
+base_tax = 1
+base_production = 1
+base_manpower = 1
+is_city = yes
+controller = PAL
+add_core= PAL
+hre = no
+
+
+ 
+
+
+
+native_size = 5
+native_ferocity = 10
+native_hostileness = 10

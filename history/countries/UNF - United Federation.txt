@@ -1,0 +1,20 @@
+setup_vision = yes
+government = republic 
+add_government_reform = oligarchy_reform
+primary_culture = russian
+religion = atomicist
+religious_school = atomicist_school
+technology_group = russian_group
+capital = 287 #Kuban
+
+
+
+3000.1.1 = {
+	monarch = {
+		name = "Vseslav"
+		dynasty = "Golitsyn"
+		adm = 5
+		dip = 4
+		mil = 4
+	}
+}

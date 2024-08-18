@@ -1,0 +1,10 @@
+owner = KOM
+controller = KOM
+add_core= KOM
+culture = ostyaki
+religion = tengri_pagan_reformed
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1

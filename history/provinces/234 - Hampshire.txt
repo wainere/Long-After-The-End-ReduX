@@ -1,0 +1,20 @@
+#234 - Hampshire + Wiltshire
+
+owner = CVL
+controller = CVL
+add_core = CVL
+culture = chav
+religion = glorian
+hre = no
+base_tax = 5
+base_production = 5
+trade_goods = unknown
+base_manpower = 3
+capital = "Salisbury"
+is_city = no
+#add_core= ENG
+#Salisbury and Winchester Cathedrals
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

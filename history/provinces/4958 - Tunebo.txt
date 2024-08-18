@@ -1,0 +1,11 @@
+owner = VNZ
+controller = VNZ
+add_core = VNZ
+add_core = LLL
+culture = llanero
+religion = espiritista
+hre = no 
+base_tax = 1
+base_production = 1
+base_manpower = 1
+

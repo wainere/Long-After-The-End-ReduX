@@ -1,0 +1,12 @@
+owner = BTR
+controller = BTR
+add_core = BTR
+
+culture = gulfard
+religion = protestant
+is_city = yes
+
+hre = yes
+base_tax = 6
+base_production = 6
+base_manpower = 3

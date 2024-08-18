@@ -1,0 +1,14 @@
+owner = CPR
+controller = CPR
+add_core = CPR
+
+culture = yooper
+religion = norse_pagan_reformed
+is_city = yes
+
+
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 3
+trade_goods = copper

@@ -1,0 +1,16 @@
+#Songye now Sankuru
+
+
+culture = luba
+religion = ahmadi
+capital = "Lusambo"
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_size = 40
+native_ferocity = 4
+native_hostileness = 9
+
+3000.1.1 = { owner = KSI controller = KSI add_core = KSI }

@@ -1,0 +1,29 @@
+#52 - Altmark
+
+#owner = BRA
+#controller = BRA
+#add_core= BRA
+culture = saxon
+religion = catholic
+hre = no
+base_tax = 1
+base_production = 1
+trade_goods = unknown
+base_manpower = 1
+capital = "Stendal"
+#estate = #estate_burghers #Altm�rkische St�dtebund
+is_city = no
+
+
+
+ 
+
+ 
+
+
+
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

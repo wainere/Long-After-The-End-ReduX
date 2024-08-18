@@ -1,0 +1,14 @@
+owner = JER
+controller = JER
+add_core = JER
+
+culture = delawarean
+religion = americanist
+is_city = yes
+
+
+hre = no
+base_tax = 5
+base_production = 5
+base_manpower = 4
+trade_goods = fish

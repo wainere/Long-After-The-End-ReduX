@@ -1,0 +1,8 @@
+setup_vision = yes
+government = monarchy 
+add_government_reform = iqta
+primary_culture = al_iraqiya_arabic
+religion = shiite
+technology_group = westasian
+capital = 412
+religious_school = jafari_school

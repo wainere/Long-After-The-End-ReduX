@@ -1,0 +1,27 @@
+# Zapata
+setup_vision = yes
+government = monarchy 
+
+government_rank = 1
+mercantilism = 0.1
+technology_group = mexican
+primary_culture = mayan
+religion = sacred_heart
+clear_scripted_personalities = yes
+capital = 2635
+3053.1.1= {
+	monarch = {
+		name = "Tito"
+		birth_date = 3021.9.11
+		dynasty = "de Ocosingo"
+		adm = 2
+		dip = 0
+		mil = 2
+	}
+	add_ruler_personality = tactical_genius_personality
+}
+3053.1.1 {
+	capital = 2635
+	add_treasury = 9
+	add_prestige = 6
+}

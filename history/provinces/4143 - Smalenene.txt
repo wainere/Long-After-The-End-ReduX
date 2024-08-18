@@ -1,0 +1,19 @@
+#Sm�lenene, incl. Mossedal, Heggen og Fr�land, Vemme, Rakkestad, Idd og Marker, Ons�y, Verne Kloster, Moss, Tune og �bygge and part of Nedre Romerike.
+ 
+culture = norwegian
+religion = norse_pagan_reformed
+hre = no
+base_tax = 1
+base_production = 1
+trade_goods = unknown
+base_manpower = 1
+capital = "Moss"
+is_city = no
+ 
+
+
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

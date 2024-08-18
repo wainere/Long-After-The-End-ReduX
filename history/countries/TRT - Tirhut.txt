@@ -1,0 +1,8 @@
+setup_vision = yes
+government = monarchy 
+
+government_rank = 1
+primary_culture = bihari
+religion = hinduism
+technology_group = westasian
+capital = 2047	# Tirhut

@@ -1,0 +1,9 @@
+# Botswana
+setup_vision = yes
+government = monarchy 
+
+government_rank = 1
+technology_group = south_african
+primary_culture = tsawana
+religion = mwari
+capital = 4858 #Gaborone

@@ -1,0 +1,20 @@
+setup_vision = yes
+government = monarchy 
+add_government_reform = autocracy_reform 
+government_rank = 1
+technology_group = european
+primary_culture = tyke
+religion = glorian
+religious_school = lamb_school
+clear_scripted_personalities = yes
+capital = 245
+
+3031.1.1 = {
+	monarch = {
+		name = "Ricard"
+		dynasty = "York"
+		dip = 5
+		adm = 1
+		mil = 2
+	}
+}

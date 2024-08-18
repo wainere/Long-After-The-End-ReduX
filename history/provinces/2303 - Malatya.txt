@@ -1,0 +1,23 @@
+#2303 - Malatya
+
+add_core = BAK
+owner = BAK
+controller = BAK
+culture = kurdish
+religion = sunni
+capital = "Malatiya"
+trade_goods = unknown
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 4
+native_size = 5
+native_ferocity = 1
+native_hostileness = 2
+ 
+
+ 
+
+
+
+#

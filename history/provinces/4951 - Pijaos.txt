@@ -1,0 +1,19 @@
+owner = BRZ
+controller = BRZ
+add_core = BRZ
+culture = muisca
+religion = sacred_heart
+is_city = yes
+add_permanent_claim = ANQ
+
+3053.1.1 = {
+	hre = no
+	base_tax = 2
+	base_production = 2
+	base_manpower = 1
+}
+	
+	
+	
+	
+	

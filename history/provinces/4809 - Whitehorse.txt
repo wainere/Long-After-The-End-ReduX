@@ -1,0 +1,15 @@
+owner= NRA
+controller = NRA
+add_core = NRA
+add_core = JNU
+
+culture = novorusskiy
+religion = nousthreskeia
+is_city = yes
+
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 2
+trade_goods = fur
+

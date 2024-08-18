@@ -1,0 +1,19 @@
+#784 - Huillimapu
+
+owner = MPC
+controller = MPC
+add_core = MPC
+culture = mapuche
+
+religion = animism
+capital = "Huillimapu"
+is_city = yes
+trade_goods = fish
+hre = no
+base_tax = 8
+base_production = 8
+base_manpower = 4
+native_size = 10
+native_ferocity = 2
+native_hostileness = 9
+

@@ -1,0 +1,16 @@
+#1118 - Sierra Leone now Salone
+
+culture = dyola
+religion = voodoo
+capital = "Freetown"
+trade_goods = gems
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+native_size = 70
+native_ferocity = 4
+native_hostileness = 9 
+
+
+

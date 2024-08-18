@@ -1,0 +1,25 @@
+#609 - Angkor
+
+#owner = KHM
+#controller = KHM
+culture = khmer
+religion = buddhism
+capital = "Angkor"
+trade_goods = tropical_wood
+hre = no
+base_tax = 5
+base_production = 5
+base_manpower = 3
+is_city = no
+#add_core= KHM
+
+
+
+
+
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3
+

@@ -1,0 +1,22 @@
+#806 - Nazca
+
+owner = PEU
+controller = PEU
+add_core= PEU
+is_city = yes
+culture = inca
+religion = inti
+capital = "Nazca"
+trade_goods = fish
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+
+
+
+
+
+native_size = 10
+native_ferocity = 1
+native_hostileness = 1

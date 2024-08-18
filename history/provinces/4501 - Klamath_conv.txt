@@ -1,0 +1,14 @@
+owner = CAL
+controller = CAL
+add_core = CAL
+add_core = X84
+
+culture = valleyan
+religion = cetic
+is_city = yes
+
+
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 2

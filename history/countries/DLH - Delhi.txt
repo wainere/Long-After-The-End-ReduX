@@ -1,0 +1,9 @@
+setup_vision = yes
+government = monarchy 
+
+primary_culture = kanauji
+religion = hinduism
+technology_group = westasian
+capital = 522	# Delhi
+fixed_capital = 522 # Cannot move capital away from this province & no power cost to move to it
+add_accepted_culture = panjabi

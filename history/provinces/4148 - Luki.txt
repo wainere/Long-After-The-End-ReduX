@@ -1,0 +1,33 @@
+#4148 - Luki
+
+#owner = NOV
+#controller = NOV
+culture = novgorodian
+religion = orthodox
+hre = no
+base_tax = 1
+base_production = 1
+trade_goods = unknown
+base_manpower = 1
+capital = "Velikiye Luki"
+is_city = no
+#add_core= NOV
+fort_15th = yes
+ 
+
+
+
+# = { #owner = MOS #controller = MOS #add_core= MOS 	}
+# = {
+	#owner = RUS
+	#controller = RUS 
+	#add_core= RUS 
+	 
+#}
+# = { unrest = 5 } # "Time of troubles"
+# = { unrest = 0 } # Romanov dynasty
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

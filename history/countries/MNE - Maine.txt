@@ -1,0 +1,21 @@
+# Maine
+setup_vision = yes
+government = monarchy 
+add_government_reform = autocracy_reform
+government_rank = 1
+technology_group = eastern
+primary_culture = yankee
+religion = anglican
+clear_scripted_personalities = yes
+capital = 971
+3047.3.20 = {
+	monarch = {
+		name = "Cynan IV"
+		birth_date = 3008.5.23
+		dynasty = "Cockswain"
+		adm = 2
+		dip = 3
+		mil = 6
+	}
+	add_ruler_personality = tactical_genius_personality
+}

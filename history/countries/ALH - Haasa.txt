@@ -1,0 +1,11 @@
+setup_vision = yes
+government = monarchy 
+add_government_reform = iqta
+government_rank = 1 #Emirate
+technology_group = westasian
+religion = shiite
+primary_culture = gulf_arabic
+capital = 394	# Al Hasa
+religious_school = jafari_school
+
+

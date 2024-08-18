@@ -1,0 +1,16 @@
+
+owner = BOT
+controller = BOT
+add_core = BOT
+is_city = yes
+culture = tsawana
+religion = mwari 
+trade_goods = unknown 
+hre = no 
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_size = 5 
+native_ferocity = 1 
+native_hostileness = 3 
+

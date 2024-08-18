@@ -1,0 +1,19 @@
+setup_vision = yes
+government = monarchy 
+add_government_reform = autocracy_reform 
+government_rank = 1
+technology_group = european
+primary_culture = chav
+religion = glorian
+religious_school = summer_school
+clear_scripted_personalities = yes
+capital = 235
+3011.1.1 = {
+	monarch = {
+		name = "Alfie 'the Absolute Madman'"	#Teehee!
+		dynasty = "Mansi"
+		dip = 1
+		adm = 2
+		mil = 5
+	}
+}

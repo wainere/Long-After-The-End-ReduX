@@ -1,0 +1,28 @@
+# Sierra Madre
+setup_vision = yes
+government = monarchy 
+
+government_rank = 2
+technology_group = mexican
+primary_culture = raramuri
+religion = atomicist
+religious_school = aphite_school
+
+clear_scripted_personalities = yes
+capital = 864
+3053.1.1= {
+	monarch = {
+		name = "Para�rciniro"
+		birth_date = 3020.12.6
+		dynasty = "Caliente"
+		adm = 2
+		dip = 6
+		mil = 1
+	}
+	add_ruler_personality = charismatic_negotiator_personality
+}
+3053.1.1 {
+	capital = 864
+	add_treasury = 3
+	add_prestige = 11
+}

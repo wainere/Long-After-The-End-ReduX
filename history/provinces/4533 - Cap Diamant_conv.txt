@@ -1,0 +1,16 @@
+owner = URS
+controller = URS
+add_core = URS
+
+culture = quebecois
+religion = ursuline
+is_city = yes
+
+
+hre = no
+base_tax = 7
+base_production = 7
+base_manpower = 5
+trade_goods = paper #Ursuline See
+fort_15th = yes
+center_of_trade = 2

@@ -1,0 +1,15 @@
+owner = BRZ
+controller = BRZ
+add_core = BRZ
+hre = no 
+base_tax = 1
+base_production = 1
+base_manpower = 1
+add_core = LLL
+culture = llanero
+religion = espiritista
+hre = no 
+base_tax = 1
+base_production = 1
+base_manpower = 1
+

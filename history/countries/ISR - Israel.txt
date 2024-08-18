@@ -1,0 +1,7 @@
+setup_vision = yes
+government = monarchy 
+
+primary_culture = hebrew
+religion = jewish
+technology_group = westasian
+capital = 379	# Jerusalem

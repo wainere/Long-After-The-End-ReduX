@@ -1,0 +1,26 @@
+#595 - Perak
+
+owner = MSA
+controller = MSA
+culture = malayan
+religion = sunni
+capital = "Perak"
+trade_goods = copper
+hre = no
+base_tax = 5
+base_production = 5
+base_manpower = 2
+is_city = yes
+add_core= MSA
+add_core= PRK
+
+
+
+
+
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3
+

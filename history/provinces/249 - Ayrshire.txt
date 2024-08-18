@@ -1,0 +1,20 @@
+#249 - Ayrshire
+
+owner = GOW
+controller = GOW
+add_core = GOW
+culture = weegan
+religion = glorian
+hre = no
+base_tax = 7
+base_production = 7
+trade_goods = unknown
+base_manpower = 4
+capital = "Glasgow"
+is_city = no
+#add_core= SCO
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

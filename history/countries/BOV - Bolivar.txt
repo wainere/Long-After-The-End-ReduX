@@ -1,0 +1,28 @@
+# Bol�var
+setup_vision = yes
+government = theocracy 
+add_government_reform = leading_clergy_reform
+government_rank = 2
+mercantilism = 0.1
+technology_group = caribbean
+primary_culture = agraciado
+religion = candomble
+clear_scripted_personalities = yes
+capital = 742
+3029.5.9 = {
+	monarch = {
+		name = "Reinaldo"
+		birth_date = 2988.1.29
+		dynasty = "de  Ciudad Bol�var"
+		adm = 2
+		dip = 5
+		mil = 6
+	}
+	add_ruler_personality = infertile_personality
+	add_ruler_personality = scholar_personality
+}
+3053.1.1 {
+	capital = 742
+	add_treasury = 81
+	add_prestige = 321
+}

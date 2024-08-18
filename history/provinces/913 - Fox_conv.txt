@@ -1,0 +1,14 @@
+owner = KIK
+controller = KIK
+add_core = KIK
+
+culture = dellsman
+religion = norse_pagan_reformed
+is_city = yes
+
+
+hre = no
+base_tax = 2
+base_production = 3
+base_manpower = 3
+trade_goods = livestock

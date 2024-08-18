@@ -1,0 +1,8 @@
+setup_vision = yes
+government = monarchy 
+add_government_reform = autocracy_reform 
+technology_group = oceanic
+primary_culture = lao
+religion = buddhism
+capital = 608	# Champassak
+

@@ -1,0 +1,19 @@
+#4340 - Astara
+
+add_core = AZB
+owner = AZB
+controller = AZBB
+culture = azerbaijani
+religion = coptic
+capital = "Astara"
+trade_goods = fish
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+#is_city = yes
+#add_core = BPI
+#add_core = ARL
+
+
+

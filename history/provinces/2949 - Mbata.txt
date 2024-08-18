@@ -1,0 +1,19 @@
+# - Mbata now M'banza-Kongo
+
+owner = CBD
+controller = CBD
+add_core = CBD
+is_city = yes
+culture = kongolese
+religion = ahmadi
+capital = "M'banza-Kongo"
+trade_goods = unknown
+hre = no
+base_tax = 2 
+base_production = 2
+base_manpower = 1
+native_size = 40
+native_ferocity = 4
+native_hostileness = 9
+
+

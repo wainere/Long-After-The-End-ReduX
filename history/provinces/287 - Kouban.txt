@@ -1,0 +1,36 @@
+#287 - Kouban
+
+
+hre = no
+base_tax = 1
+base_production = 1
+trade_goods = unknown
+base_manpower = 1
+capital = "Stavropol"
+is_city = no
+add_core = UNF
+owner = UNF
+controller = UNF
+culture = russian
+religion = atomicist
+
+
+ 
+
+
+
+ 
+
+#
+
+
+# = { #add_core= TUR } # Crimea becomes a vassal of the Ottoman Empire
+# = {
+	#owner = RUS
+ #controller = RUS  #add_core= RUS  } # Treaty of Kuchuk-Kainarji
+# = { religion = orthodox culture = russian } # Kouban Cossacks, Stavropol founded
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

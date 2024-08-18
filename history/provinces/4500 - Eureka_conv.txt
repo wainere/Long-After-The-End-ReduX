@@ -1,0 +1,13 @@
+owner = CAL
+controller = CAL
+add_core = CAL
+
+culture = bayfolk
+religion = cetic
+is_city = yes
+
+
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 2

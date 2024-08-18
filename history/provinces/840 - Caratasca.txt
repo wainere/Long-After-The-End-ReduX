@@ -1,0 +1,14 @@
+owner = MSK
+controller = MSK
+add_core = MSK
+culture = rochela
+religion = sacred_heart
+is_city = yes
+add_permanent_claim = ANQ
+
+3053.1.1 = {
+	hre = no
+	base_tax = 6
+	base_production = 6
+	base_manpower = 3
+}

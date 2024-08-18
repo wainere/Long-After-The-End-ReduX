@@ -1,0 +1,33 @@
+#2944 - Ucayali
+
+culture = maipurean
+
+
+
+
+
+religion = inti
+capital = "Ucayali"
+trade_goods = unknown
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+native_size = 10
+native_ferocity = 1 
+native_hostileness = 1
+
+
+
+owner = BRZ
+controller = BRZ
+add_core = BRZ
+3053.1.1 = {
+	owner = BRZ
+	controller = BRZ
+}
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

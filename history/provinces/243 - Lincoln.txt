@@ -1,0 +1,21 @@
+#243 - Lincoln
+#+ Northern Cambridgeshire
+
+owner = GBR
+controller = GBR
+add_core = GBR
+culture = british
+religion = glorian
+hre = no
+base_tax = 5
+base_production = 5
+trade_goods = unknown
+base_manpower = 4
+capital = "Nottingham"
+is_city = no
+#add_core= ENG
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

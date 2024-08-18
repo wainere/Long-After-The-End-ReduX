@@ -1,0 +1,15 @@
+owner = SAL
+controller = SAL
+add_core = SAL
+add_core = VIS
+
+culture = salish
+religion = raven_tales
+trade_goods = gold
+is_city = yes
+
+
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 2

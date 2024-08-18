@@ -1,0 +1,10 @@
+setup_vision = yes
+government = monarchy 
+add_government_reform = daimyo
+government_rank = 1
+technology_group = high_eurasian
+religion = shinto
+primary_culture = kyushuan
+capital = 1015	# Shuri
+
+

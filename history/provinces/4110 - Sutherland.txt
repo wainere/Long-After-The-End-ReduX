@@ -1,0 +1,22 @@
+#4110 - Sutherland
+
+owner = HSC
+controller = HSC
+add_core = HSC
+culture = highland_scottish
+religion = celticist
+hre = no
+base_tax = 1
+base_production = 1
+trade_goods = unknown
+base_manpower = 1
+capital = "Dornoch"
+is_city = yes
+ 
+
+
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

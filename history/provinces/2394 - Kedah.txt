@@ -1,0 +1,27 @@
+#2394 - Kedah
+
+owner = MSA
+controller = MSA
+culture = malayan
+religion = sunni
+capital = "Kedah"
+trade_goods = grain
+hre = no
+base_tax = 4 
+base_production = 4
+base_manpower = 2
+is_city = yes
+add_core= MSA
+add_core= KED
+
+
+
+
+
+
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3
+

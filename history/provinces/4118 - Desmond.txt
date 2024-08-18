@@ -1,0 +1,23 @@
+#4118 - Desmond and Ormond
+
+owner = MNS
+controller = MNS
+add_core = MNS
+culture = irish
+religion = celticist
+hre = no
+base_tax = 5
+base_production = 5
+trade_goods = unknown
+base_manpower = 3
+capital = "Cork"
+is_city = no
+#add_core= DMS
+ 
+
+
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

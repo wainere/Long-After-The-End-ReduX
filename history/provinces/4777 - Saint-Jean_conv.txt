@@ -1,0 +1,14 @@
+owner = SJE
+controller = SJE
+add_core = SJE
+
+culture = quebecois
+religion = ursuline
+is_city = yes
+
+
+hre = no
+base_tax = 3
+base_production = 4
+base_manpower = 4
+trade_goods = fur

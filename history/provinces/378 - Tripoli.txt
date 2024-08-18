@@ -1,0 +1,27 @@
+#378 - Tripoli
+
+owner = ASY
+controller = ASY
+add_core = ASY
+culture = al_suryah_arabic
+religion = nestorian
+capital = "Trablos" #Tripoli in the East.
+trade_goods = grain
+hre = no
+base_tax = 6 
+base_production = 6
+base_manpower = 4
+native_size = 5
+native_ferocity = 1
+native_hostileness = 2
+
+
+
+
+
+ 
+
+ 
+
+#
+

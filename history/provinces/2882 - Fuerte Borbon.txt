@@ -1,0 +1,35 @@
+# - Fuerte Borbon
+
+owner = PRG
+controller = PRG
+add_core = PRG
+culture = litoraleno
+
+
+
+
+
+religion = candomble
+capital = "Fuerte Borbon"
+is_city = yes
+trade_goods = unknown
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+native_size = 50
+native_ferocity = 1
+native_hostileness = 7
+
+owner = BRZ
+controller = BRZ
+add_core = BRZ
+3053.1.1 = {
+	owner = BRZ
+	controller = BRZ
+}
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

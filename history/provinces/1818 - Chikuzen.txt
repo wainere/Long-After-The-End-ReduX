@@ -1,0 +1,24 @@
+#1818 - Chikuzen
+
+owner = AMK
+controller = AMK
+culture = kyushuan
+religion = shinto
+capital = "Fukuoka"
+trade_goods = chinaware
+hre = no
+base_tax = 5
+base_production = 3
+base_manpower = 2
+is_city = yes
+fort_15th = yes #Tachibanayama Castle
+add_core= AMK
+
+extra_cost = 15
+center_of_trade = 2
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3
+

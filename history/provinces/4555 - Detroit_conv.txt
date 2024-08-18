@@ -1,0 +1,15 @@
+owner = MIC
+controller = MIC
+add_core = MIC
+add_core = DET
+
+culture = motowner
+religion = ursuline
+is_city = yes
+
+
+hre = no
+base_tax = 6
+base_production = 6
+base_manpower = 6
+trade_goods = paper

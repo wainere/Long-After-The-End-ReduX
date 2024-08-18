@@ -1,0 +1,19 @@
+#573 - Cachar
+
+#owner = KAC
+#controller = KAC
+culture = chin
+religion = hinduism
+capital = "Maibang"
+trade_goods = grain
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+is_city = no
+#add_core= KAC
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

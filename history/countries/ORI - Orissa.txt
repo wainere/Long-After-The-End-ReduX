@@ -1,0 +1,7 @@
+setup_vision = yes
+government = monarchy 
+
+primary_culture = oriya
+religion = hinduism
+technology_group = westasian
+capital = 552	# Cuttack

@@ -1,0 +1,24 @@
+#382 - Damascus
+
+owner = ASY
+controller = ASY
+add_core = ASY
+culture = al_suryah_arabic
+religion = nestorian
+capital = "Dimashq"
+trade_goods = unknown
+hre = no
+base_tax = 7
+base_production = 7
+base_manpower = 6
+native_size = 5
+native_ferocity = 1
+native_hostileness = 2
+
+
+ 
+
+ 
+
+#
+

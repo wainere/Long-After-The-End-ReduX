@@ -1,0 +1,14 @@
+owner = GRB
+controller = GRB
+add_core = GRB
+
+culture = dellsman
+religion = norse_pagan_reformed
+is_city = yes
+
+
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 2
+trade_goods = fish

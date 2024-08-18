@@ -1,0 +1,8 @@
+setup_vision = yes
+government = tribal 
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = westasian
+religion = hinduism
+primary_culture = gondi
+capital = 550	# Garha

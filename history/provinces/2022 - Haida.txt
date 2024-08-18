@@ -1,0 +1,18 @@
+# 2022 - Haida
+
+owner = HDA
+controller = HDA
+add_core = HDA
+
+
+culture = haida
+religion = raven_tales 
+is_city = yes
+capital = "Haida"
+
+hre = no 
+base_tax = 4
+base_production = 4
+base_manpower = 3
+trade_goods = fish
+center_of_trade = 1

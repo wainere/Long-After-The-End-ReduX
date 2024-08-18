@@ -1,0 +1,14 @@
+owner = PNM
+controller = PNM
+add_core = PNM
+capital = San-Jose
+culture = istmeno
+religion = sacred_heart
+is_city = yes
+
+3053.1.1 = {
+	hre = no
+	base_tax = 8
+	base_production = 8
+	base_manpower = 4	
+}

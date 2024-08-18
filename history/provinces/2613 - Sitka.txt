@@ -1,0 +1,17 @@
+# No previous file for Sitka
+
+owner = NRA
+controller = NRA
+add_core = NRA
+add_core = JNU
+
+culture = novorusskiy
+religion = nousthreskeia
+is_city = yes
+capital = "Sitka"
+
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 3
+trade_goods = fish

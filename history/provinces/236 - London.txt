@@ -1,0 +1,35 @@
+#236 - London
+#Middlesex+Hertfordshire+Surrey+parts of Kent and Essex
+
+owner = GBR
+controller = GBR
+culture = british
+religion = glorian
+hre = no
+base_tax = 7
+base_production = 7
+trade_goods = unknown
+base_manpower = 6
+capital = "London"
+is_city = no
+add_core= GBR
+seat_in_parliament = yes
+fort_15th = yes
+
+
+
+ 
+
+
+
+extra_cost = 25
+
+add_permanent_province_modifier = {
+	name = thames_estuary_modifier
+	duration = -1
+}
+center_of_trade = 2
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

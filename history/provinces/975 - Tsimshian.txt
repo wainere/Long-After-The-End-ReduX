@@ -1,0 +1,17 @@
+#975 - Tsimshian
+
+owner = HDA
+controller = HDA
+add_core = HDA
+
+culture = haida
+religion = raven_tales
+is_city = yes
+capital = "Tsimshian"
+
+
+hre = no
+base_tax = 2
+base_production = 3
+base_manpower = 3
+trade_goods = fur

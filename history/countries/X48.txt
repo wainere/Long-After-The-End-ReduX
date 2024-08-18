@@ -1,0 +1,25 @@
+# Lara
+setup_vision = yes
+government = monarchy 
+
+government_rank = 1
+mercantilism = 0.1
+technology_group = caribbean
+primary_culture = agraciado
+religion = espiritista
+capital = 2808
+3053.1.1 {
+	monarch = {
+		name = "Armando"
+		birth_date = 3052.12.4
+		dynasty = "Serrano"
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+}
+3053.1.1 {
+	capital = 2808
+	add_treasury = 33
+	add_prestige = 236
+}

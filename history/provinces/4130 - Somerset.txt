@@ -1,0 +1,21 @@
+#4130 - Somerset + Dorset
+
+owner = CVL
+controller = CVL
+add_core = CVL
+culture = chav
+religion = glorian
+hre = no
+base_tax = 3
+base_production = 3
+trade_goods = unknown
+base_manpower = 2
+capital = "Bath"
+is_city = no
+#estate = #estate_church
+#add_core= ENG
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

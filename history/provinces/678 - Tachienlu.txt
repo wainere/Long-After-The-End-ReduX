@@ -1,0 +1,34 @@
+#678 - Kham
+
+#owner = KAM
+#controller = KAM
+#add_core= KAM
+culture = tibetan
+religion = vajrayana
+capital = "Tachienlu"
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+is_city = no
+
+
+
+
+
+#
+
+
+
+# = {
+	#owner = QNG
+	#controller = QNG
+	#add_core= QNG
+#}
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3
+

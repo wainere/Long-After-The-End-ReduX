@@ -1,0 +1,30 @@
+#2035 - Urmia
+
+owner = ROJ
+controller = ROJ
+add_core = ROJ
+culture = kurdish
+religion = zoroastrian
+capital = "Urmiyeh"
+trade_goods = wine
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 2
+is_city = yes
+add_core = ARD
+
+
+
+
+
+ 
+
+ 
+
+#
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

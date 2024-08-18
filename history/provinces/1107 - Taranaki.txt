@@ -1,0 +1,19 @@
+#1107 - Taranaki
+
+owner = TRK
+controller = TRK
+add_core = TRK
+is_city = yes
+culture = maori
+religion = animism
+hre = no
+trade_goods = grain
+base_manpower = 2
+base_tax = 3 
+base_production = 3
+capital = "New Plymouth"
+native_size = 50
+native_ferocity = 4
+native_hostileness = 9
+
+

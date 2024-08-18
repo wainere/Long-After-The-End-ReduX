@@ -1,0 +1,29 @@
+# Belize
+setup_vision = yes
+government = monarchy 
+
+government_rank = 1
+mercantilism = 0.1
+technology_group = caribbean
+primary_culture = mayan
+religion = qabantajik
+clear_scripted_personalities = yes
+capital = 843
+3015.7.16 = {
+	monarch = {
+		name = "Coszcatl"
+		birth_date = 2980.4.25
+		dynasty = "Balam"
+		female = yes
+		adm = 2
+		dip = 2
+		mil = 5
+	}
+	add_ruler_personality = strict_personality
+	add_ruler_personality = lawgiver_personality
+}
+3053.1.1 {
+	capital = 843
+	add_treasury = 642
+	add_prestige = 209
+}

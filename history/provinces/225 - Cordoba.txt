@@ -1,0 +1,39 @@
+#225 - C�rdoba
+
+#owner = CAS		#Juan II of Castille
+#controller = CAS
+#add_core= CAS
+culture = andalucian
+religion = matrem
+hre = no
+base_tax = 1
+base_production = 1
+trade_goods = unknown
+base_manpower = 1
+capital = "C�rdoba" 
+#estate = #estate_nobles
+is_city = no
+ 
+
+
+
+ 
+
+
+
+# = {
+	#owner = SPA
+	#controller = SPA
+	#add_core= SPA
+#} # King Fernando dies, Carlos inherits Aragon and becames co-regent of Castille
+# = { culture = castillian } # Decree for the expulsion of the morisques in Andaluc�a, unlike Valencia, this was performed uneventfully.
+# = {  }
+# = { revolt = { type = pretender_rebels size = 0 } #controller = REB }
+# = { revolt = {} #controller = SPA }
+# = { revolt = { type = pretender_rebels size = 0 } #controller = REB }
+# = { revolt = {} #controller = SPA }
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

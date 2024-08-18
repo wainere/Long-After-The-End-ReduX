@@ -1,0 +1,49 @@
+# - Rio Grande do Sol
+
+culture = guarani
+
+religion = animism
+capital = "Rio Grande"
+trade_goods = unknown
+hre = no
+base_tax = 6
+base_production = 6
+base_manpower = 3
+native_size = 10
+native_ferocity = 1
+native_hostileness = 5
+
+ # Estimate
+# = {
+	#owner = POR
+	#controller = POR
+	#add_core= POR
+	is_city = no
+	culture = gaucho
+	religion = candomble
+	trade_goods = tobacco
+#}
+# = {
+	#owner = SPA
+	#controller = SPA
+#}
+# = {
+	#owner = POR
+	#controller = POR
+#}
+center_of_trade = 2
+
+owner = AGR
+controller = AGR
+	religion = sacred_heart
+add_core = AGR
+3053.1.1 = {
+	owner = AGR
+	controller = AGR
+	religion = sacred_heart
+}
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

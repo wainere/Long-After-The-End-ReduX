@@ -1,0 +1,32 @@
+#507 - Lahore
+
+owner = PUN
+controller = PUN
+culture = panjabi
+religion = sikhism
+capital = "Lahore"
+trade_goods = silk
+hre = no
+base_tax = 11
+base_production = 12
+base_manpower = 5
+is_city = yes
+add_core = PUN
+fort_15th = yes #Lahore Fort
+#Data Durbar Complex
+
+
+
+
+
+
+#
+
+
+extra_cost = 10
+
+center_of_trade = 2
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

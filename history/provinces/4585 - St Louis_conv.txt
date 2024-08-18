@@ -1,0 +1,15 @@
+owner = PAP
+controller = PAP
+add_core = PAP
+
+culture = riverlander
+religion = catholic
+trade_goods = paper #The Papacy
+is_city = yes
+
+
+hre = no
+base_tax = 8
+base_production = 8
+base_manpower = 4
+center_of_trade = 2

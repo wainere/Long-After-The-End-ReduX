@@ -1,0 +1,119 @@
+#Any religious Scholar?
+#Country Scope
+has_religious_scholars_trigger = {
+	custom_trigger_tooltip = {
+		tooltip = has_religious_scholars_trigger_tooltip
+		OR = {
+			has_country_modifier = hanafi_scholar_modifier
+			has_country_modifier = hanbali_scholar_modifier
+			has_country_modifier = maliki_scholar_modifier
+			has_country_modifier = shafii_scholar_modifier
+			has_country_modifier = ismaili_scholar_modifier
+			has_country_modifier = jafari_scholar_modifier
+			has_country_modifier = zaidi_scholar_modifier
+			has_country_modifier = salafi_scholar_modifier
+			has_country_modifier = adam_scholar_modifier
+			has_country_modifier = nuh_scholar_modifier
+		}
+	}
+}
+ 
+can_have_center_of_reformation_trigger = { #Province Scope
+	#$RELIGION$ needs to match the religion of the center that is being spawned.
+	continent = north_america
+	OR = {
+		religion = confederated
+	}
+	NOT = { province_id = 4585 }
+	is_in_capital_area = yes
+	is_reformation_center = no
+	is_island = no
+	development = 10
+	NOT = {
+		any_neighbor_province = {
+			is_reformation_center = yes
+		}
+	}
+	NOT = {
+		any_province = {
+			area = PREV
+			is_reformation_center = yes
+			religion = $RELIGION$
+		}
+	}
+	NOT = { has_climate = arctic }
+	NOT = { has_climate = arid }
+	NOT = { has_terrain = coastline }
+	NOT = { has_terrain = coastal_desert }
+	NOT = { has_terrain = steppe }
+	NOT = { has_terrain = desert }
+	NOT = { has_terrain = glacier }
+	NOT = { has_climate = tropical }
+}
+
+#Formable Tier System
+is_duchy_tier_formable = {
+	custom_trigger_tooltip = {
+		tooltip = is_duchy_tier_formable_tooltip
+		OR = {
+			tag = PAP
+			tag = WDC
+			tag = DEI
+		}
+	}
+}
+
+is_kingdom_tier_formable = {
+	custom_trigger_tooltip = {
+		tooltip = is_kingdom_tier_formable_tooltip
+		OR = {
+			tag = PAP
+			tag = INU
+			tag = ANB
+			tag = KEY
+			tag = NEN
+			tag = WIS
+			tag = ONT
+			tag = QUE
+			tag = MRT
+			tag = MIC
+			tag = RED
+		}
+	}
+}
+
+is_empire_tier_formable = {
+	custom_trigger_tooltip = {
+		tooltip = is_empire_tier_formable_tooltip
+		OR = {
+			tag = PAP
+			tag = CAN
+			tag = USA
+			tag = ATA
+			tag = AUT
+			tag = GLK
+			tag = HLR
+			tag = HUD
+			tag = NYS
+		}
+	}
+}
+
+has_holy_order_LAtE_trigger = { #For use on areas
+	custom_trigger_tooltip = {
+		tooltip = "has_holy_order_trigger_tooltip"
+		OR = {
+			holy_order = ursuline_order
+			holy_order = charity_order
+			holy_order = angeline_order
+			holy_order = anabaptist_order
+		}
+	}
+}
+
+LAtE_has_any_exploration_idea = {
+	OR = {
+		has_idea = quest_for_the_new_world
+		has_idea = legendary_voyagers
+	}
+}

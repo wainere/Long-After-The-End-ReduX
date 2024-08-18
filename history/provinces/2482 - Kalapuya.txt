@@ -1,0 +1,14 @@
+owner = PRT
+controller = PRT
+add_core = PRT
+
+culture = cascadian
+religion = gaian
+trade_goods = naval_supplies
+is_city = yes
+
+
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 2

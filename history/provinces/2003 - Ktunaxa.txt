@@ -1,0 +1,14 @@
+owner = KOO
+controller = KOO
+add_core = KOO
+
+culture = ktunaxa
+religion = peyotist
+trade_goods = wine
+is_city = yes
+
+
+hre = no
+base_tax = 2
+base_production = 3
+base_manpower = 2

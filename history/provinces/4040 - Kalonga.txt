@@ -1,0 +1,17 @@
+#Kalonga
+
+culture = nyasa
+religion = mwari
+capital = "Manthimba"
+is_city = yes
+base_manpower = 4
+trade_goods = unknown
+hre = no
+base_tax = 3
+base_production = 3
+native_size = 40
+native_ferocity = 4
+native_hostileness = 9
+
+
+center_of_trade = 2

@@ -1,0 +1,22 @@
+# - Santiago
+
+owner = MES
+controller = MES
+religion = sacred_heart
+add_core = MES
+culture = litoraleno
+
+capital = "Santiago"
+trade_goods = unknown
+is_city = yes
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 2
+native_size = 5
+native_ferocity = 1
+native_hostileness = 8
+
+
+
+

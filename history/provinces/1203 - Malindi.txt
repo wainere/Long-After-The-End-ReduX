@@ -1,0 +1,17 @@
+#1203 - Malindi
+
+culture = swahili
+religion = ahmadi
+capital = "Malindi"
+base_manpower = 2
+trade_goods = unknown
+hre = no
+base_tax = 4
+base_production = 4
+native_size = 10
+native_ferocity = 1
+native_hostileness = 3
+
+
+
+

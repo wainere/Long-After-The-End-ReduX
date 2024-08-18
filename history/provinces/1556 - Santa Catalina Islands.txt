@@ -1,0 +1,11 @@
+
+
+ # Juan Rodr�guez Cabrillo
+#  = { discovered_by = ENG } # Sir Francis Drake
+# = {  }
+ # Jean Francois la Perouse
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3
+

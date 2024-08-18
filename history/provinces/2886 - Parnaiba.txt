@@ -1,0 +1,48 @@
+# - Parnaiba
+
+culture = ge
+
+religion = animism
+capital = "Parnaiba"
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_size = 15
+native_ferocity = 1
+native_hostileness = 3
+
+
+
+
+ # Vicente Y��ez Pinz�n, couldn't make a claim due to the Treaty of Tordesillas
+ # Pedro �lvares Cabral
+
+
+# = {
+	#owner = POR
+	#controller = POR
+	#add_core= POR
+	trade_goods = fish
+	culture = paribas
+
+add_core = PRB
+	religion = candomble
+	is_city = no
+#}
+# = { unrest = 6 } # Natives led by Mandu Ladino rebelled against the brazilian expansion
+# = { unrest = 0 } # The rebellion is subdued
+
+owner = BRZ
+controller = BRZ
+add_core = BRZ
+3053.1.1 = {
+	owner = BRZ
+	controller = BRZ
+}
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

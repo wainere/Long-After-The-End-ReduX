@@ -1,0 +1,21 @@
+#250 - Fife
+
+owner = GOW
+controller = GOW
+add_core = GOW
+culture = weegan
+religion = glorian
+hre = no
+base_tax = 3
+base_production = 3
+trade_goods = unknown
+base_manpower = 2
+capital = "Dundee"
+#fort_15th = yes
+is_city = no
+#add_core= SCO
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

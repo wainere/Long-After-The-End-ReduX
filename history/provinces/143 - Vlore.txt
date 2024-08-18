@@ -1,0 +1,22 @@
+#143 - Vlor� - Southern Albania
+
+#owner = TUR
+#controller = TUR
+culture = albanian
+religion = hellenic_pagan
+capital = "Vlor�"
+trade_goods = wool #or salt
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+is_city = no
+#add_core= TUR
+#add_core= ALB
+
+ 
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

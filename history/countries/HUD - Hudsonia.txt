@@ -1,0 +1,43 @@
+# Hudsonia
+setup_vision = yes
+government = monarchy 
+add_government_reform = autocracy_reform
+government_rank = 2
+technology_group = eastern
+primary_culture = hudsonian
+religion = ursuline
+clear_scripted_personalities = yes
+capital = 4583
+set_country_flag = anabaptists_accepted
+set_estate_privilege = estate_anabaptists_allow_growth
+set_estate_privilege = estate_anabaptists_guaranteed_autonomy
+
+historical_friend = QUE
+historical_friend = MRT
+historical_rival = RED
+historical_rival = NYS
+historical_rival = AGH
+
+3053.1.1 = {
+	monarch = {
+		name = "Cornelius"
+		birth_date = 3017.11.15
+		dynasty = "Hallenbeck"
+		adm = 4
+		dip = 5
+		mil = 5
+	}
+	add_ruler_personality = pious_personality
+	add_heir_personality = babbling_buffoon_personality
+	heir = {
+		name = "Amelia"
+		monarch_name = "Amelia"
+		dynasty = "Hallenbeck"
+		birth_date = 3052.4.17
+		death_date = 3132.4.17
+		female = yes
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+}

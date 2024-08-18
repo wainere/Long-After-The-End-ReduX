@@ -1,0 +1,34 @@
+#2744 - Gyeongsang
+
+#owner = KOR
+#controller = KOR
+culture = korean
+religion = confucianism
+capital = "Gyeongju"
+trade_goods = tea
+hre = no
+base_tax = 5
+base_production = 5
+base_manpower = 2
+is_city = no
+#add_core= KOR
+fort_15th = yes
+
+#
+extra_cost = 15
+center_of_trade = 2
+
+
+
+# = { #controller = ODA } # Japanese invasion - Siege of Busan
+# = { #controller = KOR }
+# = { #add_core= MNG } # Tributary of Qing China
+# = { #add_core= MCH  } # Part of the Manchu empire
+# = { #add_core= QNG  }
+ # Hendrick Hamel
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3
+

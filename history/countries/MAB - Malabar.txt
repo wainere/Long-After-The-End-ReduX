@@ -1,0 +1,8 @@
+setup_vision = yes
+government = theocracy 
+add_government_reform = leading_clergy_reform
+government_rank = 1
+technology_group = westasian
+religion = nestorian
+primary_culture = malayalam
+capital = 534	# Calicut

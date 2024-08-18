@@ -1,0 +1,29 @@
+#411 - Mosul
+
+owner = BSU
+controller = BSU
+add_core = BSU
+culture = kurdish
+religion = nestorian
+capital = "Al Mawsil"
+trade_goods = cloth
+hre = no
+base_tax = 4 
+base_production = 4
+base_manpower = 4
+is_city = yes
+fort_15th = yes
+add_core = ASY
+
+
+
+
+
+
+ 
+
+#
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

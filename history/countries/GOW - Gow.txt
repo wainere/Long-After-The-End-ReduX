@@ -1,0 +1,20 @@
+setup_vision = yes
+government = monarchy 
+add_government_reform = autocracy_reform 
+government_rank = 1
+technology_group = european
+primary_culture = weegan
+religion = glorian
+religious_school = queen_school
+clear_scripted_personalities = yes
+capital = 249
+
+3001.1.1 = {
+	monarch = {
+		name = "Nicholas"
+		dynasty = "Aberach"
+		dip = 3
+		adm = 1
+		mil = 5
+	}
+}

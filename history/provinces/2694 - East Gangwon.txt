@@ -1,0 +1,27 @@
+#2694 - East Gangwon
+
+#owner = KOR
+#controller = KOR
+culture = korean
+religion = confucianism
+capital = "Gangneung"
+trade_goods = fish
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+is_city = no
+#add_core= KOR
+
+#
+
+
+
+# = { #add_core= MCH } # Manchu Invasion
+# = {  } # Qing vassalized Korea
+ # Hendrick Hamel
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

@@ -1,0 +1,30 @@
+#116 - Firenze
+
+#owner = LAN
+#controller = LAN
+culture = tuscan 
+religion = hellenic_pagan 
+hre = no 
+base_tax = 1
+base_production = 1
+trade_goods = wine
+base_manpower = 1
+fort_15th = yes
+capital = "Firenze" 
+is_city = no 
+ # Founded 1321
+#add_core= LAN
+
+
+
+ 
+
+
+
+
+center_of_trade = 2
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

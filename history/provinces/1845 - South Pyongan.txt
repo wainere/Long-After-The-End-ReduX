@@ -1,0 +1,30 @@
+#1845 - Pyeongyang
+
+#owner = KOR
+#controller = KOR
+culture = korean
+religion = confucianism
+capital = "Pyeongyang"
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+is_city = no
+#add_core= KOR
+
+#
+
+ # Tome Pires
+# = { unrest = 5 } # Japanese invasion
+# = { #controller = KOR unrest = 0 } # Japanese retreat
+# = { #add_core= MNG } # Tributary of Qing China
+# = { #add_core= MCH  } # Part of the Manchu empire
+# = { #add_core= QNG  }
+ # Hendrick Hamel
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3
+

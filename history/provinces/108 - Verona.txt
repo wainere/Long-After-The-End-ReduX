@@ -1,0 +1,55 @@
+#108 - Verona
+
+#owner = MLO
+#controller = MLO
+culture = venetian 
+religion = hellenic_pagan 
+hre = no 
+base_tax = 1
+base_production = 1
+trade_goods = grain
+base_manpower = 1
+capital = "Verona" 
+is_city = no 
+#add_core= MLO
+
+
+
+ 
+
+ 
+
+
+
+
+
+# = {	#owner = VEN
+	#controller = VEN
+	#add_core= VEN
+	
+#} # To Milano
+# = { #add_core= HAB } # War of the League of Cambrai 
+# = { #controller = HAB } # Venice collapses
+# = { #owner = HAB } # Austria switches sides
+# = { #owner = VEN #controller = HAB } # Venice switches sides
+# = { #controller = VEN  } # Treaty of Brussels
+# = {	#owner = HAB
+	#controller = HAB
+	#add_core= HAB
+#} # Treaty of Campo Formio
+# = {	#owner = ITA
+	#controller = ITA
+	#add_core= ITA
+	
+#} # Treaty of Pressburg
+# = { hre = no } # The Holy Roman Empire is dissolved
+# = {	#owner = HAB
+	#controller = HAB
+	#add_core= HAB
+	
+#} # Treaty of Fontainebleau, Napoleon abdicates unconditionally
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

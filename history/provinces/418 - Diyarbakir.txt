@@ -1,0 +1,32 @@
+#418 - Diyarbakir
+
+add_core = BAK
+owner = BAK
+controller = BAK
+culture = kurdish
+religion = sunni
+capital = "Diyar Bekir"
+trade_goods = copper
+hre = no
+base_tax = 4 
+base_production = 4
+base_manpower = 3
+is_city = yes
+
+
+
+
+ 
+
+
+
+ 
+
+#
+
+fort_15th = yes #Fortress City of Amed/Diyarbakir as well as the Citadel of Mardin which withstood repeated sieges by Timur and was frequently seiged in Ottoman-Safavid conflicts.
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

@@ -1,0 +1,15 @@
+owner = MIC
+controller = MIC
+add_core = MIC
+add_core = MAU
+
+culture = rostmann
+religion = rust_cultist
+is_city = yes
+
+
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 1
+trade_goods = iron

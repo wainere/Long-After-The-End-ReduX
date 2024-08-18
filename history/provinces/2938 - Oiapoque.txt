@@ -1,0 +1,19 @@
+# - Oiapoque
+
+culture = amazonense
+
+religion = candomble
+capital = "Oiapoque"
+trade_goods = fish
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+native_size = 15
+native_ferocity = 1
+native_hostileness = 2
+
+#Backwards compatibility
+owner = BRZ
+controller = BRZ
+add_core = BRZ

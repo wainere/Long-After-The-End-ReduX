@@ -1,0 +1,23 @@
+#416 - Azerbaijan
+
+add_core = AZB
+owner = AZB
+controller = AZB
+culture = azerbaijani
+religion = coptic
+capital = "Tabriz"
+trade_goods = silk
+hre = no
+base_tax = 7
+base_production = 7
+base_manpower = 3
+#is_city = yes
+#add_core = QAR
+#add_core = TBR
+#fort_15th = yes
+
+
+extra_cost = 10
+
+center_of_trade = 2
+

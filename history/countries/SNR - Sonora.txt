@@ -1,0 +1,27 @@
+# Sonora
+setup_vision = yes
+government = monarchy 
+
+government_rank = 2
+mercantilism = 0.1
+technology_group = mexican
+primary_culture = sonorense
+religion = sacred_heart
+clear_scripted_personalities = yes
+capital = 4745
+3053.1.1= {
+	monarch = {
+		name = "Segu�n"
+		birth_date = 3027.1.3
+		dynasty = "Seguin"
+		adm = 6
+		dip = 2
+		mil = 2
+	}
+	add_ruler_personality = tolerant_personality
+}
+3053.1.1 {
+	capital = 4745
+	add_treasury = 0
+	add_prestige = 45
+}

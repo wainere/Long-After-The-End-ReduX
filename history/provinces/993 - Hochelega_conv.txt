@@ -1,0 +1,17 @@
+owner = QUE
+controller = QUE
+add_core = QUE
+add_core = MTR
+
+culture = quebecois
+religion = ursuline
+is_city = yes
+set_seat_in_parliament = yes
+
+hre = no
+base_tax = 6
+base_production = 8
+base_manpower = 6
+trade_goods = glass
+center_of_trade = 2
+fort_15th = yes

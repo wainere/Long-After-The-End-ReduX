@@ -1,0 +1,13 @@
+owner = Z99
+controller = Z99
+add_core = Z99
+
+culture = dixie
+religion = protestant
+is_city = yes
+
+
+hre = yes
+base_tax = 4
+base_production = 4
+base_manpower = 2

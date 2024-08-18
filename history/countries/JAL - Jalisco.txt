@@ -1,0 +1,27 @@
+# Jalisco
+setup_vision = yes
+government = monarchy 
+
+government_rank = 2
+mercantilism = 0.1
+technology_group = mexican
+primary_culture = tapatio
+religion = sacred_heart
+clear_scripted_personalities = yes
+capital = 2621
+3053.1.1= {
+	monarch = {
+		name = "Tar�"
+		birth_date = 3021.1.19
+		dynasty = "Tar�id"
+		adm = 5
+		dip = 4
+		mil = 3
+	}
+	add_ruler_personality = midas_touched_personality
+}
+3053.1.1 {
+	capital = 2621
+	add_treasury = 0
+	add_prestige = 22
+}

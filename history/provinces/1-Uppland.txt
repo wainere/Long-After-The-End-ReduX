@@ -1,0 +1,22 @@
+#Uppland, contains Stockholm, Uppsala & Nyk�ping.
+
+culture = swedish
+religion = norse_pagan_reformed
+hre = no
+base_tax = 1
+base_production = 1
+trade_goods = unknown
+base_manpower = 1
+capital = "Stockholm"
+native_size = 40
+native_ferocity = 4
+native_hostileness = 9
+
+
+
+
+ 
+
+ 
+
+

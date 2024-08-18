@@ -1,0 +1,16 @@
+owner = OHI
+controller = OHI
+add_core = OHI
+
+culture = rostmann
+religion = rust_cultist
+is_city = yes
+
+# 
+
+
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 2
+trade_goods = copper

@@ -1,0 +1,10 @@
+setup_vision = yes
+government = monarchy 
+
+government_rank = 1
+technology_group = westasian
+religion = hinduism
+primary_culture = avadhi
+capital = 2097	# Baghelkhand
+fixed_capital = 2097 # Cannot move capital away from this province & no power cost to move to it
+

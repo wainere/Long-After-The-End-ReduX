@@ -1,0 +1,8 @@
+setup_vision = yes
+government = monarchy 
+add_government_reform = autocracy_reform 
+primary_culture = assamese
+religion = hinduism
+technology_group = westasian
+unit_type = chinese
+capital = 566	# Gargaon

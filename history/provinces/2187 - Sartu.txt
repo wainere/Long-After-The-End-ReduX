@@ -1,0 +1,29 @@
+# 2187 - Sartu
+
+#owner = KRC
+#controller = KRC
+#add_core= KRC
+culture = chahar
+religion = tengri_pagan_reformed
+capital = "Sartu"
+trade_goods = wool
+hre = no
+base_tax = 6
+base_production = 6
+base_manpower = 5
+is_city = no
+
+
+
+
+#
+
+
+owner = HEI
+controller = HEI
+add_core = HEI
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3
+

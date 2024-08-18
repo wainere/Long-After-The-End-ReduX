@@ -1,0 +1,13 @@
+owner = Y88
+controller = Y88
+add_core = Y88
+
+culture = dakota
+religion = peyotist
+is_city = yes
+
+
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1

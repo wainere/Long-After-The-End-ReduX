@@ -1,0 +1,20 @@
+# 195 Limousin - Principal cities: Limoges
+
+#owner = FRA
+#controller = FRA
+capital = "Limoges"
+is_city = no
+culture = gascon
+religion = cult_of_reason
+hre = no
+base_tax = 1
+base_production = 1
+trade_goods = unknown
+base_manpower = 1
+ 
+
+
+
+native_size = 5
+native_ferocity = 10
+native_hostileness = 10

@@ -1,0 +1,8 @@
+setup_vision = yes
+government = tribal 
+add_government_reform = tribal_kingdom
+government_rank = 1
+primary_culture = jharkhandi
+technology_group = westasian
+religion = hinduism
+capital = 560 # Jharkhand

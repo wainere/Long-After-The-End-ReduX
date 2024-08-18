@@ -1,0 +1,31 @@
+#517 - Surat (Surat, Rander, Daman)
+
+owner = GUJ
+controller = GUJ
+culture = gujarati
+religion = zoroastrian
+capital = "Surat"
+trade_goods = silk
+hre = no
+base_tax = 8 
+base_production = 8
+base_manpower = 3
+is_city = yes
+add_core = GUJ
+
+
+
+
+
+ 
+
+#
+
+
+extra_cost = 15
+
+center_of_trade = 2
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

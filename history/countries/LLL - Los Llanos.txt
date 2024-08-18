@@ -1,0 +1,9 @@
+# Los Llanos
+setup_vision = yes
+government = monarchy 
+
+government_rank = 1
+technology_group = caribbean
+primary_culture = llanero
+religion = espiritista
+capital = 2812

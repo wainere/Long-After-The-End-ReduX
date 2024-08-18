@@ -1,0 +1,15 @@
+owner = ECU
+controller = ECU
+culture = quiteno
+religion = sacred_heart
+is_city = yes
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+add_core = ECU
+
+
+
+
+

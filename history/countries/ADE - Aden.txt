@@ -1,0 +1,10 @@
+setup_vision = yes
+government = monarchy 
+add_government_reform = iqta
+primary_culture = yemeni_culture
+religion = sunni
+technology_group = westasian
+capital = 388	# Aden
+government_rank = 1
+religious_school = shafii_school
+

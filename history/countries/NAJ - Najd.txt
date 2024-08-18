@@ -1,0 +1,10 @@
+setup_vision = yes
+government = republic 
+add_government_reform = tribal_federation
+technology_group = westasian
+primary_culture = bedouin_arabic
+religion = sunni
+capital = 392 # Deraiyah
+religious_school = salafi_school
+
+

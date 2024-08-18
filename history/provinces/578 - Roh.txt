@@ -1,0 +1,21 @@
+#578 - Roh
+
+owner = PUN #Punjab for now, just so it's accessible for the Hindustani formation decisions
+controller = PUN
+add_core = PUN
+is_city = yes
+culture = afghani
+religion = sunni
+capital = "Peshawar"
+trade_goods = livestock
+hre = no
+base_tax = 4 
+base_production = 4
+base_manpower = 2
+native_size = 5
+native_ferocity = 1
+native_hostileness = 2
+
+
+
+

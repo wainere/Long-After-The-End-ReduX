@@ -1,0 +1,6 @@
+###########################################
+# Events for the Colonization of Siberia
+# Written by Henrik Lohmander
+###########################################
+
+# Removed for now, should probably make new ones for CAN

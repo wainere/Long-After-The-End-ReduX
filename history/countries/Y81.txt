@@ -1,0 +1,34 @@
+# Estacado
+setup_vision = yes
+government = monarchy 
+
+government_rank = 1
+technology_group = western
+primary_culture = chilango
+religion = consumerist
+religious_school = bank_school
+
+clear_scripted_personalities = yes
+capital = 2497
+3053.1.1= {
+	monarch = {
+		name = "Cabrillo"
+		birth_date = 2989.1.11
+		dynasty = "Iturbide"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+	add_ruler_personality = scholar_personality
+	heir = {
+		name = "Gustavito"
+		monarch_name = "Gustavito"
+		dynasty = "Iturbide"
+		birth_date = 3001.2.11
+		death_date = 3081.2.11
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+	add_heir_personality = craven_personality
+}

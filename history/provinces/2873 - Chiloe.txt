@@ -1,0 +1,18 @@
+# - Chiloe
+add_core = PGO
+owner = PGO
+controller = PGO
+culture = platinean
+
+religion = animism
+capital = "Chiloe"
+trade_goods = unknown
+hre = no
+base_tax = 6
+base_production = 6
+base_manpower = 3
+native_size = 10
+native_ferocity = 2
+native_hostileness = 9
+
+center_of_trade = 2

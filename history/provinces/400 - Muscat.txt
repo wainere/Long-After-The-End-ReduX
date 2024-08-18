@@ -1,0 +1,30 @@
+#400 - Muscat
+
+owner = OMA
+controller = OMA
+culture = omani_culture
+religion = ibadi
+capital = "Masqat"
+trade_goods = spices
+hre = no
+base_tax = 4 
+base_production = 4
+base_manpower = 2
+is_city = yes
+add_core = OMA
+
+
+
+
+#
+
+
+fort_15th = yes
+extra_cost = 15
+
+center_of_trade = 2
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

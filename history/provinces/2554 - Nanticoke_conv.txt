@@ -1,0 +1,15 @@
+owner = BLT
+controller = BLT
+add_core = BLT
+add_core = MRL
+
+culture = delawarean
+religion = americanist
+is_city = yes
+
+
+hre = no
+base_tax = 6
+base_production = 6
+base_manpower = 5
+trade_goods = cloth

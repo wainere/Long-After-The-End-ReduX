@@ -1,0 +1,4 @@
+#1794 - Central Sahara
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

@@ -1,0 +1,12 @@
+owner = Z42
+controller = Z42
+add_core = Z42
+
+culture = southron
+religion = protestant
+is_city = yes
+
+hre = yes
+base_tax = 10
+base_production = 10
+base_manpower = 5

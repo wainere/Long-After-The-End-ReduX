@@ -1,0 +1,14 @@
+owner = BMT
+controller = BMT
+add_core = BMT
+
+culture = inlander
+religion = gaian
+trade_goods = salt
+is_city = yes
+
+
+hre = no
+base_tax = 2
+base_production = 1
+base_manpower = 2

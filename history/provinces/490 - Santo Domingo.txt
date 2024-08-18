@@ -1,0 +1,24 @@
+owner = CBN
+controller = CBN
+add_core = CBN
+capital = "Santo Domingo"
+culture = dominicano
+religion = santeria
+is_city = yes
+add_core = DOM
+
+trade_goods = cloth
+terrain = hills
+3053.1.1 = {
+	hre = no
+	base_tax = 7
+	base_production = 7
+	base_manpower = 4
+}
+3053.1.1 = {
+	owner = CBN
+	controller = CBN
+	culture = dominicano
+	religion = santeria
+	trade_goods = cloth
+}

@@ -1,0 +1,22 @@
+#4305 - Shakhi
+
+add_core = AZB
+owner = AZB
+controller = AZB
+culture = azerbaijani
+religion = coptic
+capital = "Shaki"
+trade_goods = wool
+hre = no
+base_tax = 2 
+base_production = 2
+base_manpower = 1
+#is_city = yes
+#add_core = SRV
+ 
+
+
+
+
+
+

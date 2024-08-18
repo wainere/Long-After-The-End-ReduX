@@ -1,0 +1,2 @@
+setup_vision = yes
+technology_group = western

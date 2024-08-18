@@ -1,0 +1,14 @@
+owner = AGH
+controller = AGH
+add_core = AGH
+
+culture = alleghenian
+religion = rust_cultist
+is_city = yes
+
+
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 2
+trade_goods = iron

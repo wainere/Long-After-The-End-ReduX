@@ -1,0 +1,16 @@
+owner = SAL
+controller = SAL
+add_core = SAL
+add_core = OLY
+
+culture = cascadian
+religion = raven_tales
+trade_goods = fish
+is_city = yes
+
+
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 3
+

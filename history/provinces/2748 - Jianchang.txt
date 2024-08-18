@@ -1,0 +1,26 @@
+#2406 - Jianchang
+
+owner = CYI
+controller = CYI
+add_core= CYI
+culture = yi
+religion = buddhism
+capital = "Jianchang"
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+is_city = yes
+
+
+
+
+#
+
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3
+

@@ -1,0 +1,15 @@
+owner = MIC
+controller = MIC
+add_core = MIC
+add_core = SAG
+
+culture = lacustrine
+religion = ursuline
+is_city = yes
+
+
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 3
+trade_goods = naval_supplies

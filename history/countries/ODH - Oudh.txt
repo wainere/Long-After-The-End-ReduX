@@ -1,0 +1,8 @@
+setup_vision = yes
+government = monarchy 
+
+technology_group = russian_group
+religion = hinduism
+primary_culture = avadhi
+capital = 523	# Lucknow
+

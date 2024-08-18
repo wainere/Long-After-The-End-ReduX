@@ -1,0 +1,30 @@
+# New York
+setup_vision = yes
+government = republic 
+add_government_reform = merchants_reform
+government_rank = 1
+technology_group = eastern
+primary_culture = gothamite
+religion = americanist
+religious_school = liberty_school
+
+clear_scripted_personalities = yes
+capital = 965
+add_treasury = 80
+add_prestige = 25
+
+historical_friend = RED
+historical_friend = AGH
+historical_rival = HUD
+
+3043.10.19 = {
+	monarch = {
+		name = "Gareth II"
+		birth_date = 3007.5.3
+		dynasty = "Manhattan"
+		adm = 6
+		dip = 3
+		mil = 3
+	}
+	add_ruler_personality = midas_touched_personality
+}

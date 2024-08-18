@@ -1,0 +1,39 @@
+#232 - Bragan�a
+
+#owner = POR
+#controller = POR
+culture = portugese
+religion = matrem
+capital = "Bragan�a"
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+is_city = no
+#estate = #estate_nobles
+#add_core= POR
+
+
+
+ 
+
+
+
+ 
+
+
+
+# = { #controller = SPA }
+# = { #controller = POR }
+# = { unrest = 8 } # Portugal revolt headed by John of Bragan�a
+# = { unrest = 0 } # Portugal regained its independence & colonial possessions
+# = { #controller = FRA } # Occupied by France
+# = { #controller = POR }
+# = { #controller = FRA } # Wellington retreats into Lines of Torres Vedras fortification and Mass�na can't enter Lisboa due to the scorched earth policy
+# = { #controller = POR } # The Napoleonic army retreats from Portugal
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

@@ -1,0 +1,8 @@
+setup_vision = yes
+government = monarchy 
+
+government_rank = 1
+technology_group = russian_group
+religion = yazidi
+primary_culture = kurdish
+capital = 377 #Aleppo

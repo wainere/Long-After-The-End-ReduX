@@ -1,0 +1,15 @@
+owner = RED
+controller = RED
+add_core = RED
+add_core = MNE
+
+culture = yankee
+religion = occultist
+is_city = yes
+
+
+hre = no
+base_tax = 2
+base_production = 1
+base_manpower = 2
+trade_goods = naval_supplies

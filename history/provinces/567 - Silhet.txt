@@ -1,0 +1,26 @@
+#567 - Sylhet
+
+#owner = BNG
+#controller = BNG
+culture = bengali
+religion = hinduism
+capital = "Sylhet"
+trade_goods = cotton
+hre = no
+base_tax = 4 
+base_production = 3
+base_manpower = 2
+is_city = no
+#estate = #estate_dhimmi
+#add_core= BNG
+
+
+
+
+
+#
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

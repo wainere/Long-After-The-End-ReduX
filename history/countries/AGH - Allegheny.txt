@@ -1,0 +1,26 @@
+# Allegheny
+setup_vision = yes
+government = monarchy 
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = eastern
+primary_culture = alleghenian
+religion = rust_cultist
+religious_school = materialist_school
+historical_friend = NYS
+historical_rival = HUD
+
+clear_scripted_personalities = yes
+capital = 954
+3034.1.11 = {
+	monarch = {
+		name = "Otto"
+		birth_date = 3024.11.4
+		dynasty = "Detweiler"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+	add_ruler_personality = craven_personality
+	add_ruler_personality = malevolent_personality
+}

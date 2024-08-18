@@ -1,0 +1,10 @@
+setup_vision = yes
+government = monarchy 
+
+government_rank = 2
+primary_culture = persian
+religion = zoroastrian
+technology_group = westasian
+capital = 433 # Yazd
+
+

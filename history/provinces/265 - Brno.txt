@@ -1,0 +1,22 @@
+#265 - Moravia
+
+#owner = BOH
+#controller = BOH
+capital = "Brunn"
+culture = czech
+religion = matrem
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+#estate = #estate_burghers
+is_city = no
+ 
+
+
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

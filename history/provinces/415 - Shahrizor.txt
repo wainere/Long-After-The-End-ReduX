@@ -1,0 +1,27 @@
+#415 - Sharazor
+
+owner = BSU
+controller = BSU
+add_core = BSU
+culture = kurdish
+religion = nestorian
+capital = "Kirkuk"
+trade_goods = grain
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 3
+is_city = yes
+add_core = ASY
+
+
+
+
+ 
+
+
+#
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

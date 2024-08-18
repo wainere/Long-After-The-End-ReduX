@@ -1,0 +1,27 @@
+# Mexico
+setup_vision = yes
+government = monarchy 
+
+government_rank = 2
+mercantilism = 0.1
+technology_group = mexican
+primary_culture = chilango
+religion = sacred_heart
+clear_scripted_personalities = yes
+capital = 852
+3053.1.1 {
+	monarch = {
+		name = "Diego Garc�a"
+		birth_date = 3023.3.17
+		dynasty = "el Capitalino"
+		adm = 4
+		dip = 1
+		mil = 4
+	}
+	add_ruler_personality = strict_personality
+}
+3053.1.1 {
+	capital = 852
+	add_treasury = 311
+	add_prestige = 306
+}

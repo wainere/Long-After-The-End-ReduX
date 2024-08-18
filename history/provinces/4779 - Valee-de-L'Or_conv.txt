@@ -1,0 +1,15 @@
+owner = ARR
+controller = ARR
+add_core = ARR
+
+culture = algonquin
+religion = ursuline
+is_city = yes
+
+
+hre = no
+base_tax = 1
+base_production = 3
+base_manpower = 2
+center_of_trade = 1
+trade_goods = gold

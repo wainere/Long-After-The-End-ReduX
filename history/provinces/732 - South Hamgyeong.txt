@@ -1,0 +1,30 @@
+#732 - Hamgyeong
+
+#owner = KOR
+#controller = KOR
+culture = korean
+religion = confucianism
+capital = "Hamgyeong"
+trade_goods = fish
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 2
+is_city = no
+#add_core= KOR
+
+#
+
+
+# = { #controller = ODA } # Japanese invasion - Battle of Haejungchang
+# = { #controller = KOR } # Kato retreats to Seoul
+# = { #add_core= MNG } # Tributary of Qing China
+# = { #add_core= MCH  } # Part of the Manchu empire
+# = { #add_core= QNG  }
+ # Hendrick Hamel
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3
+

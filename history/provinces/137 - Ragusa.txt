@@ -1,0 +1,31 @@
+#137 - Ragusa
+
+#owner = RAG
+#controller = RAG
+culture = croatian
+religion = hellenic_pagan
+capital = "Ragusa"
+trade_goods = naval_supplies
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+is_city = no
+#add_core= RAG
+
+
+ 
+
+ 
+
+
+
+
+extra_cost = 15
+
+center_of_trade = 2
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

@@ -1,0 +1,19 @@
+setup_vision = yes
+government = monarchy 
+
+government_rank = 1
+technology_group = european
+primary_culture = welsh
+religion = glorian
+religious_school = queen_school
+capital = 233	# Exeter
+
+3011.1.1 = {
+	monarch = {
+		name = "Dafydd"
+		dynasty = "Dinefwr"
+		dip = 1
+		adm = 4
+		mil = 5
+	}
+}

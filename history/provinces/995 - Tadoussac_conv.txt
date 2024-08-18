@@ -1,0 +1,14 @@
+owner = ONA
+controller = ONA
+add_core = ONA
+
+culture = innu
+religion = ursuline
+is_city = yes
+
+
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 3
+trade_goods = naval_supplies

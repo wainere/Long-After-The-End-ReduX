@@ -1,0 +1,19 @@
+#Rwanda
+
+owner = RWA
+controller = RWA
+add_core = RWA
+culture = rwandan
+religion = ahmadi
+capital = "Kigali"
+trade_goods = iron
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 3
+is_city = yes
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

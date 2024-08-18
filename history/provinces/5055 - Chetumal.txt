@@ -1,0 +1,14 @@
+owner = BLZ
+controller = BLZ
+add_core = BLZ
+culture = mayan
+religion = qabantajik
+is_city = yes
+add_permanent_claim = X95
+
+3053.1.1 = {
+	hre = no
+	base_tax = 6
+	base_production = 6
+	base_manpower = 3
+}

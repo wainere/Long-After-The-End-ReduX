@@ -1,0 +1,8 @@
+setup_vision = yes
+government = monarchy 
+
+government_rank = 1
+technology_group = westasian
+religion = zoroastrian
+primary_culture = kurdish
+capital = 2201 #Ardalan

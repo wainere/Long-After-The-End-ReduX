@@ -1,0 +1,16 @@
+owner = HUD
+controller = HUD
+add_core = HUD
+add_core = CMP
+
+culture = hudsonian
+religion = ursuline
+is_city = yes
+
+
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 2
+trade_goods = wool
+add_province_triggered_modifier = anabaptists_present_medium

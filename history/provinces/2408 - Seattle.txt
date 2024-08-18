@@ -1,0 +1,15 @@
+#2408 - Seattle
+owner = SEA
+controller = SEA
+add_core = SEA
+
+culture = cascadian
+religion = raven_tales
+trade_goods = glass
+is_city = yes
+
+
+hre = no
+base_tax = 6
+base_production = 6
+base_manpower = 4

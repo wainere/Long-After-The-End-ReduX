@@ -1,0 +1,30 @@
+country_decisions = {
+	
+	Louisiana_conversion = {
+		major = yes
+		potential = {
+		NOT = { has_country_flag = converted_catholic }
+			tag = OUA
+			
+		}
+		allow = {
+			is_free_or_tributary_trigger = yes
+			is_at_war = no
+			stability = 3
+			prestige = 20
+		}
+		effect = {
+			change_religion = catholic
+			set_country_flag = converted_catholic
+			add_stability = -4
+			add_country_modifier = {
+				name = catholic_zeal
+				duration = 5475
+			}
+		
+
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}

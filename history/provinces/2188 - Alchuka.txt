@@ -1,0 +1,29 @@
+# 2188 - Alchuka
+
+#owner = MHX
+#controller = MHX
+#add_core= MHX
+culture = manchu
+religion = tengri_pagan_reformed
+capital = "Alchuka"
+trade_goods = grain
+hre = no
+base_tax = 4 
+base_production = 4
+base_manpower = 3
+is_city = no
+#estate = #estate_nomadic_tribes
+
+
+
+
+#
+
+owner = HEI
+controller = HEI
+add_core = HEI
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3
+

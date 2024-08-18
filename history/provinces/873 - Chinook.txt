@@ -1,0 +1,16 @@
+owner = PRT
+controller = PRT
+add_core = PRT
+culture = cascadian
+religion = gaian
+
+is_city = yes
+trade_goods = cloth
+center_of_trade = 2
+
+
+
+hre = no
+base_tax = 6
+base_production = 6
+base_manpower = 4

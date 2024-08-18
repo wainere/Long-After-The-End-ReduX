@@ -1,0 +1,17 @@
+#1157 - Borno
+
+culture = kanuri
+religion = sunni
+capital = "Gatiga"
+base_manpower = 1
+trade_goods = unknown
+hre = no
+base_tax = 4 
+base_production = 4
+
+extra_cost = 10
+native_size = 10
+native_ferocity = 1
+native_hostileness = 3
+
+center_of_trade = 2

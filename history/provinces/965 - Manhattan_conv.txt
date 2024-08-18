@@ -1,0 +1,15 @@
+owner = NYS
+controller = NYS
+add_core = NYS
+
+culture = gothamite
+religion = americanist
+is_city = yes
+
+
+hre = no
+base_tax = 10
+base_production = 10
+base_manpower = 5
+trade_goods = gems
+fort_15th = yes

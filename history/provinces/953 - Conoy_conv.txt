@@ -1,0 +1,15 @@
+owner = WDC
+controller = WDC
+add_core = WDC
+add_core = MRL
+
+culture = beltway
+religion = americanist
+is_city = yes
+
+
+hre = no
+base_tax = 6
+base_production = 6
+base_manpower = 4
+trade_goods = livestock

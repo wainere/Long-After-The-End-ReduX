@@ -1,0 +1,8 @@
+setup_vision = yes
+government = monarchy 
+
+primary_culture = highland_scottish
+religion = catholic
+technology_group = western
+#capital = 4364 # inner hebrides
+government_rank = 1

@@ -1,0 +1,35 @@
+#438 - Kara Kum
+
+#owner = TIM
+#controller = TIM
+culture = turkmeni
+religion = sunni
+capital = "Geok-Tepe"
+trade_goods = wool
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+is_city = no
+#add_core= TIM
+#add_core= KHI
+
+
+
+
+
+#
+
+
+
+# = { unrest = 8 } # Death of Shahrukh, chaotic conditions
+# = { #owner = KHO #controller = KHO #add_core= KHO  } # The end of the Timurids in Samarkand
+# = { #controller = BUK }
+# = { #owner = BUK #add_core= BUK  unrest = 0 } # Conquered by Muhammad Shaybani
+# = { #owner = KHI #controller = KHI  } # Khiva separates from Uzbeks
+
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

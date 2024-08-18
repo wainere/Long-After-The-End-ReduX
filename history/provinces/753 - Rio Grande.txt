@@ -1,0 +1,35 @@
+#753 - Rio Grande
+
+culture = tupinamba
+ 
+
+religion = animism
+capital = "Rio Grande"
+trade_goods = unknown
+hre = no
+base_tax = 7
+base_production = 7
+base_manpower = 4
+native_size = 15
+native_ferocity = 1
+native_hostileness = 2
+	
+culture = paribas
+add_core = PRB
+
+
+owner = PRB
+controller = PRB 
+	religion = sacred_heart
+add_core = PRB
+
+3053.1.1 = {
+	owner = PRB
+	controller = PRB 
+	religion = sacred_heart
+}
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

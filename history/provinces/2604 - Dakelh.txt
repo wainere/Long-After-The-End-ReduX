@@ -1,0 +1,16 @@
+owner = CRB
+controller = CRB
+add_core = CRB
+culture = canuck
+religion = gaian
+
+is_city = yes
+trade_goods = livestock
+center_of_trade = 1
+
+
+
+hre = no
+base_tax = 2
+base_production = 3
+base_manpower = 3

@@ -1,0 +1,15 @@
+owner = WSQ
+controller = WSQ
+add_core = WSQ
+
+culture = deitsch
+religion = americanist
+is_city = yes
+
+
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 3
+trade_goods = iron
+add_province_triggered_modifier = anabaptists_present_medium

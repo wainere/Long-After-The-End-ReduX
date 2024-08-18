@@ -1,0 +1,9 @@
+setup_vision = yes
+government = monarchy 
+
+primary_culture = malvi
+religion = hinduism
+technology_group = westasian
+capital = 526	# Mandu
+add_accepted_culture = rajput
+ 

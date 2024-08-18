@@ -1,0 +1,26 @@
+#660 - Xishuan Banna
+
+owner = ITU
+controller = ITU
+culture = shan
+religion = buddhism
+capital = "Itu Wan"
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+is_city = yes
+add_core= ITU
+
+
+
+
+
+#
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3
+

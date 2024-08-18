@@ -1,0 +1,26 @@
+#4218 - Buteha
+
+#owner = KRC
+#controller = KRC
+#add_core= KRC
+culture = khalkha
+religion = tengri_pagan_reformed
+capital = "Buteha"
+trade_goods = wool
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+is_city = no
+
+#
+
+owner = HEI
+controller = HEI
+add_core = HEI
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3
+

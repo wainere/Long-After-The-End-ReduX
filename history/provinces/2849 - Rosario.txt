@@ -1,0 +1,21 @@
+# - Rosario
+
+owner = LAP
+controller =LAP
+religion = sacred_heart
+add_core = LAP
+add_core = MES
+culture = platinean
+
+capital = "Rosario"
+trade_goods = unknown
+is_city = yes
+hre = no
+base_tax = 6
+base_production = 6
+base_manpower = 3
+native_size = 5
+native_ferocity = 1
+native_hostileness = 1
+
+#note: Mesapotamia should have a claim here implying a recent conquest from La Plata

@@ -1,0 +1,28 @@
+# 199 Auvergne - Principal cities: Clermont-Ferrand
+
+#owner = FRA
+#controller = FRA
+capital = "Clermont"
+is_city = no
+culture = occitain
+religion = cult_of_reason
+hre = no
+base_tax = 1
+base_production = 1
+trade_goods = unknown
+base_manpower = 1
+add_local_autonomy = 25
+#estate = #estate_nobles
+#add_core= AUV
+#add_core= FRA
+
+
+
+ 
+
+
+
+
+native_size = 5
+native_ferocity = 10
+native_hostileness = 10

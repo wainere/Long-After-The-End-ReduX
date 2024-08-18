@@ -1,0 +1,45 @@
+#2415 - Etkara
+
+
+hre = no
+base_tax = 1
+base_production = 1
+trade_goods = unknown
+base_manpower = 1
+capital = "Etkara"
+is_city = no
+add_core= OBR
+owner = OBR
+controller = OBR
+culture = russian
+religion = atomicist
+
+
+
+ 
+
+ 
+
+
+
+#
+
+
+# = {
+	#owner = CRI
+	#controller = CRI
+	#add_core= CRI 
+	 
+#} # Golden Horde destroyed by Crimea
+# = {
+	#owner = RUS
+	#controller = RUS
+	#add_core= RUS
+	 
+#} # Battle of Molodi
+# = { culture = russian religion = orthodox }
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

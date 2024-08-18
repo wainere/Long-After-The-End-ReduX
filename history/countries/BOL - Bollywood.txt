@@ -1,0 +1,9 @@
+setup_vision = yes
+government = monarchy 
+
+government_rank = 2
+primary_culture = kanauji
+religion = jain
+technology_group = westasian
+capital = 529	# Mumbai
+add_accepted_culture = marathi

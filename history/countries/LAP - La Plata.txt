@@ -1,0 +1,8 @@
+setup_vision = yes
+government = monarchy 
+
+technology_group = brazilian
+religion = sacred_heart
+primary_culture = platinean
+capital = 778	# Santa Mar�a del Buen Ayre
+

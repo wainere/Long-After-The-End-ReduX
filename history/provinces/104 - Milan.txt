@@ -1,0 +1,25 @@
+#104 - Milano
+
+#owner = MLO
+#controller = MLO
+culture = lombard
+religion = hellenic_pagan
+hre = no
+base_tax = 1
+base_production = 1
+trade_goods = cloth
+base_manpower = 1
+fort_15th = yes #Sforza Castle
+capital = "Milano"
+is_city = no	# Estimated
+#add_core= MLO
+ 
+
+
+extra_cost = 10
+
+center_of_trade = 2
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

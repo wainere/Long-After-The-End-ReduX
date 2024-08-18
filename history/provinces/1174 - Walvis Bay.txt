@@ -1,0 +1,19 @@
+#1174 - Angra Pequena now walvis bay
+
+owner = NAM
+controller = NAM
+add_core = NAM
+is_city = yes
+culture = baster
+religion = mwari
+capital = "Walvis Bay"
+trade_goods = fish
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+native_size = 40
+native_ferocity = 2
+native_hostileness = 6
+
+

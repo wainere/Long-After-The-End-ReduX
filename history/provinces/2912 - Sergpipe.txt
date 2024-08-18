@@ -1,0 +1,59 @@
+# - Sergipe
+
+culture = tupinamba
+
+religion = animism
+capital = "Sergipe"
+trade_goods = unknown
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 2
+native_size = 10
+native_ferocity = 1
+native_hostileness = 3
+
+ # Pedro �lvares Cabral
+# = {
+	#owner = POR
+	#controller = POR
+	#add_core= POR
+	is_city = no
+	trade_goods = tropical_wood
+	culture = baiano 
+add_core = BIA
+	religion = candomble
+#}
+# = { capital = "S�o Crist�v�o" }
+# = {
+	#owner = NED
+	#controller = NED
+	#add_core= NED
+	religion = reformed
+	culture = dutch
+#}
+# = {
+	#owner = POR
+	#controller = POR
+	
+	culture = baiano 
+add_core = BIA
+	religion = candomble
+#}
+# = { unrest = 4 } # Resistance from Maroon dwellers
+# = { unrest = 0 } # Zumbi, their leader is captured
+
+owner = BIA
+controller = BIA
+	religion = sacred_heart
+add_core = BIA
+3053.1.1 = {
+	owner = BIA
+	controller = BIA
+	religion = sacred_heart
+}
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

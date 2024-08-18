@@ -1,0 +1,44 @@
+# - Marajo
+
+culture = tupinamba
+
+religion = animism
+capital = "Marajo"
+trade_goods = unknown
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3
+
+
+
+
+ # Pinz�n, Pedro �lvares Cabral 
+
+
+# = {
+	#owner = POR
+	#controller = POR
+	#add_core= POR
+	is_city = no
+	capital = "Vigia"
+	culture = amazonense
+	religion = candomble
+	trade_goods = sugar
+#}
+# = { capital = "Breves" }
+owner = BRZ
+controller = BRZ
+add_core = BRZ
+3053.1.1 = {
+	owner = BRZ
+	controller = BRZ
+}
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

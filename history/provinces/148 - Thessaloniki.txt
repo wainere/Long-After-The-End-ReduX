@@ -1,0 +1,22 @@
+#148 - Macedonia
+
+culture = greek
+religion = hellenic_pagan
+capital = "Thessaloniki"
+trade_goods = grain
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+is_city = no
+ 
+
+
+extra_cost = 15
+
+center_of_trade = 2
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

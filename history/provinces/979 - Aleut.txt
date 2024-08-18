@@ -1,0 +1,16 @@
+#979 - Aleut
+
+owner = NRA
+controller = NRA
+add_core = NRA
+
+culture = novorusskiy
+religion = nousthreskeia
+is_city = yes
+capital = "Aleut"
+
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = fish

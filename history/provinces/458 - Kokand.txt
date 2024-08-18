@@ -1,0 +1,44 @@
+#458 - Kokand
+
+#owner = TIM
+#controller = TIM
+culture = uzbehk
+religion = sunni
+capital = "Kokand"
+trade_goods = iron
+hre = no
+base_tax = 4 
+base_production = 4
+base_manpower = 4
+is_city = no
+#add_core= TIM
+#add_core= KOK
+
+
+
+
+
+
+#
+
+
+
+# = { 
+	#owner = SHY 
+	#controller = SHY
+	#add_core= SHY
+	# 
+#} # Muhammad Shaybani
+# = {
+	#owner = BUK
+	#add_core= BUK
+	#controller = BUK
+	
+#} # The Uzbek Shaybanids brings an end to the Timurid dynasty
+
+# = { #owner = KOK #controller = KOK  } # Independent principality established by Shaybanid Shahrukh
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

@@ -1,0 +1,23 @@
+#425 - Dagestan
+add_core = QUB
+owner = QUB
+controller = QUB
+culture = azerbaijani
+religion = jewish
+capital = "Derbent"
+trade_goods = unknown
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 1
+native_size = 5
+native_ferocity = 1
+native_hostileness = 2
+
+
+
+
+
+ 
+
+#

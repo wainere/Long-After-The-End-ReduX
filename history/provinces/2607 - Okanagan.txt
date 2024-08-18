@@ -1,0 +1,15 @@
+owner = OAK
+controller = OAK
+add_core = OAK
+
+culture = inlander
+religion = gaian
+trade_goods = wine
+is_city = yes
+add_core = X12
+
+
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 3

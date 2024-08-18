@@ -1,0 +1,40 @@
+#760 - Porto Seguro
+
+culture = ge
+
+religion = animism
+capital = "Porto Seguro"
+trade_goods = unknown
+hre = no
+base_tax = 2
+base_production = 4
+base_manpower = 1
+native_size = 10
+native_ferocity = 1
+native_hostileness = 3
+
+ # Pedro �lvares Cabral
+# = {
+	#owner = POR
+	#controller = POR
+	#add_core= POR
+	culture = baiano 
+add_core = BIA
+	religion = candomble
+	is_city = no
+	trade_goods = sugar
+#}
+owner = BIA
+controller = BIA
+	religion = sacred_heart
+add_core = BIA
+3053.1.1 = {
+	owner = BIA
+	controller = BIA
+	religion = sacred_heart
+}
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

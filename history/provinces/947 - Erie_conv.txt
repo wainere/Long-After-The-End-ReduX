@@ -1,0 +1,15 @@
+owner = CLE
+controller = CLE
+add_core = CLE
+
+culture = motowner
+religion = rust_cultist
+is_city = yes
+add_core = Y31
+
+
+hre = no
+base_tax = 6
+base_production = 6
+base_manpower = 5
+trade_goods = cloth

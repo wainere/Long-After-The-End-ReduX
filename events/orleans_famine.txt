@@ -1,0 +1,25 @@
+namespace = orleans_famine
+#Famine in Orleans
+country_event = {
+	id = orleans_famine.1
+	title = orleans_famine.1.t
+	desc = orleans_famine.1.d
+	picture = FAMINE_eventPicture
+	
+	trigger = {
+		tag = Z02
+		is_year = 3033
+	}
+	
+	mean_time_to_happen = {
+		months = 3
+	}
+	
+	fire_only_once = yes 
+	
+	option = {
+		name = orleans_famine.1.a
+		893 = {
+			add_unrest = 10
+		}
+	}

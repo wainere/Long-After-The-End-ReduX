@@ -1,0 +1,20 @@
+#4152 - Kuusamo incl Maanselk� and Kitka
+
+#owner = SWE
+#controller = SWE
+#add_core= SWE
+culture = sapmi
+religion = finnish_pagan_reformed
+hre = no
+base_tax = 1 
+base_production = 1
+trade_goods = fur
+base_manpower = 1
+capital = "Maanselk�"
+is_city = no
+ 
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

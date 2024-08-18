@@ -1,0 +1,33 @@
+#2742 - Gyeongseong
+
+#owner = KOR
+#controller = KOR
+culture = manchu
+religion = confucianism
+capital = "Gyeongseong"
+trade_goods = fur
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+is_city = no
+#add_core= KOR
+
+#
+add_local_autonomy = 25
+
+# = { culture = korean }
+
+# = { #controller = ODA } # Japanese invasion - Battle of Haejungchang
+# = { #controller = KOR } # Kato retreats to Seoul
+# = { #add_core= MNG } # Tributary of Qing China
+# = { #add_core= MCH  } # Part of the Manchu empire
+# = { #add_core= QNG  }
+ # Hendrick Hamel
+ # Martin Spanberg
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3
+

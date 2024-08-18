@@ -1,0 +1,8 @@
+setup_vision = yes
+government = monarchy 
+add_government_reform = autocracy_reform 
+technology_group = oceanic
+religion = buddhism
+primary_culture = northern_thai
+capital = 589 # Chiang Mai
+

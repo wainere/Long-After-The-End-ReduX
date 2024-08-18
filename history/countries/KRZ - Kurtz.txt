@@ -1,0 +1,21 @@
+setup_vision = yes
+government = tribal 
+add_government_reform = tribal_kingdom
+primary_culture = afrikaner
+religion = mwari
+technology_group = south_african
+
+unit_type = sub_saharan
+capital = 4099
+
+
+3050.1.1 = {
+	monarch = {
+		name = "Walter I"
+		dynasty = "Kurtz"
+		birth_date = 3026.1.1
+		adm = 5
+		dip = 2
+		mil = 4
+	}
+}

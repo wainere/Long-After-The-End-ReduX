@@ -1,0 +1,21 @@
+# Cordoba
+setup_vision = yes
+government = monarchy 
+
+government_rank = 2
+technology_group = conic
+primary_culture = cordoban
+religion = inti
+capital = 794
+
+3053.1.1 {
+	capital = 794
+	monarch = {
+		name = "Javier"
+		birth_date = 2995.3.04
+		dynasty = "Vivanco"
+		adm = 1
+		dip = 2
+		mil = 4
+	}
+}

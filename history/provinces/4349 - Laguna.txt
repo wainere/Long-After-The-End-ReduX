@@ -1,0 +1,15 @@
+#4349 - Laguna
+
+owner = MNL
+controller = MNL
+add_core = MNL
+culture = filipino
+religion = sacred_heart
+capital = "Laguna"
+trade_goods = grain
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 1
+is_city = yes
+

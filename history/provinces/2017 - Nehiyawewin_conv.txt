@@ -1,0 +1,13 @@
+owner= ALB
+controller = ALB
+add_core = ALB
+
+culture = prairielander
+religion = trailwalker
+is_city = yes
+
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 4
+trade_goods = iron

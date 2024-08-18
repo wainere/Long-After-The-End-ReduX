@@ -1,0 +1,15 @@
+owner = HDR
+controller = HDR
+add_core = HDR
+culture = paiute
+religion = gaian
+
+is_city = yes
+trade_goods = wool
+
+
+
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 2

@@ -1,0 +1,24 @@
+#72 - Breisgau
+
+#owner = BAD
+#controller = BAD
+#add_core= BAD
+culture = swabian
+religion = cult_of_reason
+base_tax = 1
+base_production = 1
+trade_goods = unknown
+base_manpower = 1
+capital = "Freiburg" 
+is_city = no
+hre = no
+
+
+ 
+
+
+
+
+native_size = 5
+native_ferocity = 10
+native_hostileness = 10

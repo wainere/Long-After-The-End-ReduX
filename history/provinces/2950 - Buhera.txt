@@ -1,0 +1,20 @@
+#2950 - Buhera now Harare
+
+owner = ZIM
+controller = ZIM
+add_core = ZIM
+culture = shona
+religion = mwari
+capital = "Harare"
+is_city = yes
+base_manpower = 1
+trade_goods = ivory
+hre = no
+base_tax = 1 
+base_production = 1
+
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

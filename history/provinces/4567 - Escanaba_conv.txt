@@ -1,0 +1,14 @@
+owner = SOO
+controller = SOO
+add_core = SOO
+
+culture = yooper
+religion = norse_pagan_reformed
+is_city = yes
+
+
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 3
+trade_goods = livestock

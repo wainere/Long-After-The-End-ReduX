@@ -1,0 +1,24 @@
+#510 - Sirhind
+
+owner = PUN
+controller = PUN
+culture = panjabi
+religion = sikhism
+capital = "Sirhind"
+trade_goods = cotton
+hre = no
+base_tax = 5 
+base_production = 5
+base_manpower = 3
+is_city = yes
+add_core = PUN
+fort_15th = yes
+
+#
+
+
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

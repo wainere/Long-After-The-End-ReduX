@@ -1,0 +1,26 @@
+# Cleveland
+setup_vision = yes
+government = republic 
+add_government_reform = merchants_reform
+government_rank = 1
+technology_group = eastern
+primary_culture = motowner
+religion = rust_cultist
+religious_school = materialist_school
+
+clear_scripted_personalities = yes
+capital = 947
+historical_rival = MIC
+
+3034.1.11 = {
+	monarch = {
+		name = "Wayne"
+		birth_date = 3024.11.4
+		dynasty = "Carter"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+	add_ruler_personality = craven_personality
+	add_ruler_personality = malevolent_personality
+}

@@ -1,0 +1,8 @@
+setup_vision = yes
+government = native
+government_rank = 1
+primary_culture = saxon
+religion = matrem
+technology_group = european
+capital = 63 # Leipzig/Thuringia
+

@@ -1,0 +1,25 @@
+#602 - Chiang Rai
+
+owner = LNA
+controller = LNA
+culture = northern_thai
+religion = buddhism
+capital = "Chiang Rai"
+trade_goods = grain 
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 2
+is_city = yes
+add_core= LNA
+
+
+
+
+
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3
+

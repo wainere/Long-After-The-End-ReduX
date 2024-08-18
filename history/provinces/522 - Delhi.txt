@@ -1,0 +1,28 @@
+#522 - Delhi
+
+owner = DLH
+controller = DLH
+culture = kanauji
+religion = hinduism
+capital = "New Delhi"
+trade_goods = silk
+hre = no
+base_tax = 8 
+base_production = 8
+base_manpower = 4
+is_city = yes
+add_core= DLH
+
+
+
+
+
+
+extra_cost = 10
+
+center_of_trade = 2
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

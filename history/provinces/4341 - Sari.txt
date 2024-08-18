@@ -1,0 +1,21 @@
+#4341 - Sari
+
+#owner = TAB
+#controller = TAB
+culture = mazandarani
+religion = shiite
+capital = "Sari"
+trade_goods = silk
+hre = no
+base_tax = 5
+base_production = 5
+base_manpower = 3
+#is_city = yes
+#add_local_autonomy = 10
+#add_core = TAB
+
+
+extra_cost = 10
+
+center_of_trade = 2
+

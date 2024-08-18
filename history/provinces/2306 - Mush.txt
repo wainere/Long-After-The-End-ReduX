@@ -1,0 +1,28 @@
+#2306 - Mush
+
+add_core = BAK
+owner = BAK
+controller = BAK
+culture = kurdish
+religion = sunni
+capital = "Mus"
+trade_goods = wool
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 3
+is_city = yes
+add_core = BHT
+
+ 
+
+
+
+ 
+
+#
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

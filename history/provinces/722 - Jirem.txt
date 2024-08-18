@@ -1,0 +1,27 @@
+#722 - Jurim
+
+#owner = KRC
+#controller = KRC
+#add_core= KRC
+culture = chahar
+religion = vajrayana
+capital = "Jirem"
+trade_goods = wool
+hre = no
+base_tax = 1 
+base_production = 2
+base_manpower = 2
+is_city = no
+#add_core= KHA
+
+#
+
+
+owner = HEI
+controller = HEI
+add_core = HEI
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3
+

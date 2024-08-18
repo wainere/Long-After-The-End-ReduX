@@ -1,0 +1,16 @@
+#Ronde/Parry Sound
+owner = SHD #Home
+controller = SHD #Home
+add_core = SHD #Home
+
+culture = ontarois
+religion = ursuline
+is_city = yes
+add_core = SHD
+
+
+hre = no
+base_tax = 3
+base_production = 4
+base_manpower = 2
+trade_goods = fish

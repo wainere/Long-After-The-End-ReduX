@@ -1,0 +1,20 @@
+setup_vision = yes
+government = monarchy 
+add_government_reform = autocracy_reform 
+primary_culture = russian
+religion = atomicist
+religious_school = schronist_school
+technology_group = russian_group
+capital = 466 #Sarai
+
+
+
+3000.1.1 = {
+	monarch = {
+		name = "Vladimir"
+		dynasty = "Toropetsky"
+		adm = 2
+		dip = 4
+		mil = 1
+	}
+}

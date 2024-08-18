@@ -1,0 +1,14 @@
+owner = SLB
+controller = SLB
+add_core = SLB
+
+culture = nez_perce
+religion = peyotist
+trade_goods = gold
+is_city = yes
+
+
+hre = no
+base_tax = 2
+base_production = 3
+base_manpower = 2

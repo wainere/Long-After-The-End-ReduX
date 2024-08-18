@@ -1,0 +1,21 @@
+# Soo
+setup_vision = yes
+government = monarchy 
+add_government_reform = autocracy_reform 
+government_rank = 1
+technology_group = eastern
+primary_culture = yooper
+religion = norse_pagan_reformed
+clear_scripted_personalities = yes
+capital = 911
+3053.1.1 = {
+	monarch = {
+		name = "Stenvar"
+		birth_date = 3029.10.13
+		dynasty = "Johnson"
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+	add_ruler_personality = drunkard_personality
+}

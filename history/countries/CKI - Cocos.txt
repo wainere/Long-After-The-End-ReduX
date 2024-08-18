@@ -1,0 +1,9 @@
+setup_vision = yes
+government = monarchy 
+add_government_reform = autocracy_reform 
+government_rank = 2
+primary_culture = strayan
+religion = brethren
+technology_group = oceanic
+capital = 1999	# Cocos
+

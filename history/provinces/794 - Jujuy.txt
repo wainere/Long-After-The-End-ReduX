@@ -1,0 +1,32 @@
+#794 - Jujuy
+
+owner = SLT
+controller = SLT
+add_core= SLT
+culture = platinean
+
+
+
+
+
+religion = inti
+capital = "Jujuy"
+trade_goods = wool
+hre = no
+is_city = yes
+native_size = 5
+native_ferocity = 1
+native_hostileness = 2
+base_tax = 3 
+base_production = 3
+base_manpower = 1
+
+owner = SLT
+controller = SLT
+add_core = SLT
+3053.1.1 = {
+	owner = SLT
+	controller = SLT
+}
+
+

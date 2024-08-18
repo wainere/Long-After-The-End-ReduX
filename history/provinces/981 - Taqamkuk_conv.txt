@@ -1,0 +1,13 @@
+owner = TAQ
+controller = TAQ
+add_core = TAQ
+
+culture = mikmaq
+religion = anglican
+is_city = yes
+
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 3
+trade_goods = salt	

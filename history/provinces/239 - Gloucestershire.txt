@@ -1,0 +1,25 @@
+#239 - Gloucestershire
+#Includes Somerset.
+
+owner = GBR
+controller = GBR
+culture = british
+religion = glorian
+hre = no
+base_tax = 5
+base_production = 5
+trade_goods = unknown
+base_manpower = 4
+capital = "Bristol"
+is_city = yes
+add_core= GBR
+
+
+
+ 
+
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

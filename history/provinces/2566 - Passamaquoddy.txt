@@ -1,0 +1,14 @@
+owner = MNE
+controller = MNE
+add_core = MNE
+
+culture = yankee
+religion = anglican
+is_city = yes
+
+
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 3
+trade_goods = fish

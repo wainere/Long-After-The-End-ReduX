@@ -1,0 +1,25 @@
+#2999 - Hormuz
+
+capital = "Hormuz"
+culture = bedouin_arabic
+religion = sunni
+trade_goods = fish
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 1
+native_size = 5
+native_ferocity = 1
+native_hostileness = 2
+
+
+
+
+
+
+
+#
+
+extra_cost = 15
+
+center_of_trade = 2

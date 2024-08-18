@@ -1,0 +1,12 @@
+
+
+
+ # John Cabbot
+  # Gaspar Corte-Real
+  # Jacques Cartier
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3
+

@@ -1,0 +1,23 @@
+#246 - Northumberland
+#+Durham
+
+owner = TYK
+controller = TYK
+add_core = TYK
+culture = tyke
+religion = glorian
+hre = no
+base_tax = 3
+base_production = 3
+trade_goods = unknown
+base_manpower = 2
+capital = "Newcastle"
+#fort_15th = yes
+is_city = no
+#add_core= ENG
+#add_core= NOL
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

@@ -1,0 +1,29 @@
+#641 - Makassar
+
+#owner = MKS
+#controller = MKS
+culture = sulawesi
+religion = sunni
+capital = "Makassar"
+trade_goods = spices
+hre = no
+base_tax = 8 
+base_production = 8
+base_manpower = 5
+is_city = no
+#add_core= MKS
+
+
+
+
+
+
+extra_cost = 15
+
+center_of_trade = 2
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3
+

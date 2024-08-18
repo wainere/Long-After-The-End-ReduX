@@ -1,0 +1,15 @@
+owner = IND
+controller = IND
+add_core = IND
+
+culture = rostmann
+religion = rust_cultist
+is_city = yes
+
+
+hre = no
+base_tax = 5
+base_production = 5
+base_manpower = 5
+trade_goods = glass
+center_of_trade = 1

@@ -1,0 +1,24 @@
+#1201 - Zanzibar
+
+owner = ZAN
+controller = ZAN
+add_core = ZAN
+culture = swahili
+religion = ahmadi
+capital = "Zanzibar"
+is_city = yes
+base_manpower = 1
+trade_goods = spices #slaves
+#estate = #estate_burghers
+hre = no
+base_tax = 2 
+base_production = 2
+
+extra_cost = 15
+
+center_of_trade = 2
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

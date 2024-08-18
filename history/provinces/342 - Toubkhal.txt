@@ -1,0 +1,22 @@
+# - Rabat
+
+owner = MOR
+controller = MOR
+add_core = MOR
+is_city = yes
+culture = moroccan
+religion = brethren
+capital = "Rabat"
+trade_goods = unknown
+hre = no
+base_tax = 4 
+base_production = 4
+base_manpower = 2
+native_size = 5
+native_ferocity = 1
+native_hostileness = 0
+
+
+
+ 
+

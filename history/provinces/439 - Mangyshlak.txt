@@ -1,0 +1,32 @@
+#439 - Mangyshlak
+
+#owner = NOG
+#controller = NOG
+culture = nogaybak
+religion = sunni
+capital = "Mangyshlak"
+trade_goods = fish
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+is_city = no
+#add_core= NOG
+
+
+
+
+
+ 
+
+#
+
+
+# = { #owner = KZH #controller = KZH #add_core= KZH  culture = khazak } # Qasim Khan conquers Nogai lands
+# = { #owner = KHI #controller = KHI #add_core= KHI  } # Khan of Khiva builds Mangyshlak fortress
+
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

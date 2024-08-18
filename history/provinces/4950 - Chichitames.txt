@@ -1,0 +1,11 @@
+owner = RIO
+controller = RIO
+add_core = RIO
+hre = no 
+base_tax = 1
+base_production = 1
+base_manpower = 1
+
+culture = norteno
+religion = sacred_heart
+

@@ -1,0 +1,71 @@
+#754 - Itamaraca
+
+culture = tupinamba
+
+religion = animism
+capital = "Filipeia"
+trade_goods = unknown
+hre = no
+base_tax = 6
+base_production = 6
+base_manpower = 3
+native_size = 15
+native_ferocity = 1
+native_hostileness = 3
+
+
+
+
+ # Vicente Y��ez Pinz�n, couldn't make a claim due to the Treaty of Tordesillas
+ #Pedro �lvares Cabral
+
+
+# = {
+	#owner = POR
+	#controller = POR
+	#add_core= POR
+	culture = paribas
+
+add_core = PRB
+	religion = candomble
+	trade_goods = sugar
+#}
+# = { unrest = 3 } # Expulsion of the buccaneers that had taken over the territory
+# = { unrest = 0 }
+# = {
+	#owner = NED
+	#controller = NED
+	#add_core= NED
+	capital = "Frederikstad"
+	culture = dutch
+	religion = reformed
+#} # Dutch occupation
+# = { unrest = 7 } # Religious confrontations between the brazilian-Brazilian and the Dutch Calvinists
+# = {
+	#owner = POR
+	#controller = POR
+	
+	capital = "Parahyba do Norte"
+	culture = paribas
+
+add_core = PRB
+	religion = candomble
+	unrest = 0
+#} # The dutch are chased out
+# = { unrest = 5 } # National uprising
+# = { unrest = 0 } # Estimated
+
+owner = PRB
+controller = PRB 
+	religion = sacred_heart
+add_core = PRB
+3053.1.1 = {
+	owner = PRB
+	controller = PRB 
+	religion = sacred_heart
+}
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

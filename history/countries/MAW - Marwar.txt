@@ -1,0 +1,7 @@
+setup_vision = yes
+government = monarchy 
+add_government_reform = autocracy_reform 
+primary_culture = rajput
+religion = jain
+technology_group = westasian
+capital = 514	# Jodphur

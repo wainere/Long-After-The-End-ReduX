@@ -1,0 +1,25 @@
+#376 - Connaught
+
+owner = SLN
+controller = SLN
+add_core = SLN
+culture = irish
+religion = celticist
+hre = no
+base_tax = 4
+base_production = 4
+trade_goods = unknown
+base_manpower = 2
+capital = "Galway"
+is_city = no
+#add_core= CNN
+
+
+
+ 
+
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

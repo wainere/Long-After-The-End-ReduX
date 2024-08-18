@@ -1,0 +1,15 @@
+owner = SHD
+controller = SHD
+add_core = SHD
+
+culture = ontarois
+religion = ursuline
+is_city = yes
+
+
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 4
+trade_goods = copper
+center_of_trade = 1

@@ -1,0 +1,16 @@
+owner = WDC
+controller = WDC
+add_core = WDC
+add_core = MRL
+
+culture = beltway
+religion = americanist
+is_city = yes
+
+
+hre = no
+base_tax = 7
+base_production = 7
+base_manpower = 6
+trade_goods = paper
+fort_15th = yes

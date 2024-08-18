@@ -1,0 +1,23 @@
+# 91 Hainaut - Principal cities: Mons & Tournai
+
+#owner = BUR
+#controller = BUR
+#add_core= BUR
+capital = "Mons"
+is_city = no
+culture = wallonian
+religion = cult_of_reason
+hre = no
+base_tax = 1
+base_production = 1
+trade_goods = unknown
+base_manpower = 1
+#add_core= HAI
+ 
+
+
+
+
+native_size = 5
+native_ferocity = 10
+native_hostileness = 10

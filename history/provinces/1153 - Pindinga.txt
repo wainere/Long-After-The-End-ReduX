@@ -1,0 +1,20 @@
+#1153 - Pindinga
+
+owner = NGR
+controller = NGR
+add_core = NGR
+is_city = yes
+culture = nigerian  
+religion = ahmadi
+capital = "Abuja"
+native_size = 40
+base_manpower = 1
+trade_goods = wool
+hre = no
+base_tax = 1 
+base_production = 1
+native_ferocity = 4
+native_hostileness = 9
+
+
+

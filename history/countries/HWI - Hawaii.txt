@@ -1,0 +1,9 @@
+# Hawaii
+setup_vision = yes
+government = monarchy 
+
+government_rank = 1
+technology_group = high_eurasian
+primary_culture = hawaiian
+religion = cetic
+capital = 1240

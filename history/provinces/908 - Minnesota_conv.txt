@@ -1,0 +1,13 @@
+owner = Y87
+controller = Y87
+add_core = Y87
+
+culture = dakota
+religion = catholic
+is_city = yes
+
+
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1

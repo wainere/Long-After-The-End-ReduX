@@ -1,0 +1,21 @@
+#482 - Bahamas
+
+capital = "Nassau"
+owner = Z80
+controller = Z80
+add_core = Z80
+culture = west_indian
+religion = protestant
+is_city = yes
+trade_goods = fish
+add_permanent_claim = Z00
+
+
+3053.1.1 = {
+	hre = yes
+	base_tax = 4
+	base_production = 4
+	base_manpower = 1
+	elector = yes	
+}
+

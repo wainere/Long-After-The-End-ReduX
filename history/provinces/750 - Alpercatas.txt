@@ -1,0 +1,46 @@
+#750 - Crato
+
+culture = ge
+
+religion = animism
+capital = "Crato"
+trade_goods = unknown
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 2
+native_size = 10
+native_ferocity = 1
+native_hostileness = 6
+
+
+
+
+
+
+# = {
+	#owner = POR
+	#controller = POR
+	#add_core= POR
+	trade_goods = tobacco
+	culture = paribas
+
+add_core = PRB
+	religion = candomble
+	is_city = no
+#}
+
+owner = PRB
+controller = PRB 
+	religion = sacred_heart
+add_core = PRB
+3053.1.1 = {
+	owner = PRB
+	controller = PRB 
+	religion = sacred_heart
+}
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

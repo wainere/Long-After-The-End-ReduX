@@ -1,0 +1,20 @@
+#Skaraborg, contains Skara, Sk�vde etc.
+
+culture = swedish
+religion = norse_pagan_reformed
+hre = no
+base_tax = 1
+base_production = 1
+trade_goods = unknown
+base_manpower = 1
+capital = "G�teborg"
+is_city = no
+ #"Domkyrkan i Skara"
+ 
+
+
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

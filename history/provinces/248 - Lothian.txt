@@ -1,0 +1,34 @@
+#248 - Lothian
+
+owner = GOW
+controller = GOW
+add_core = GOW
+culture = weegan
+religion = glorian
+hre = no
+base_tax = 5
+base_production = 5
+trade_goods = unknown
+base_manpower = 4
+capital = "Edinburgh"
+is_city = no
+#add_core= SCO
+fort_15th = yes
+
+
+
+ 
+
+
+
+ 
+
+
+extra_cost = 15
+
+center_of_trade = 2
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

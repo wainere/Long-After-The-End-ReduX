@@ -1,0 +1,20 @@
+#Niedersachen
+setup_vision = yes
+government = monarchy
+
+government_rank = 1
+primary_culture = hannoverian
+religion = thelema
+technology_group = european
+capital = 57	# Hannover
+
+3032.8.11 = {
+	monarch = {
+		name = "Karl Philipp"
+		birth_date = 2993.1.7
+		dynasty = "von Waldenstein"
+		adm = 6
+		dip = 0
+		mil = 4
+	}
+}

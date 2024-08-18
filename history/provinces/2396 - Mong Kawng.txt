@@ -1,0 +1,25 @@
+#2396 - Mong Kawng
+
+owner = MYA
+controller = MYA
+culture = kachin
+religion = buddhism
+capital = "Mong Kawng"
+trade_goods = gold
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 3
+is_city = yes
+add_core= MYA
+
+
+
+
+
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3
+

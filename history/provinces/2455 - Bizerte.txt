@@ -1,0 +1,21 @@
+# - Bizerte
+
+culture = tunisian
+religion = brethren
+capital = "Bizerte"
+trade_goods = unknown
+hre = no
+base_tax = 4 
+base_production = 4
+base_manpower = 1
+native_size = 30
+native_ferocity = 4
+native_hostileness = 9
+
+
+
+
+
+ 
+
+ 

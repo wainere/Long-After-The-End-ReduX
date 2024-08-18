@@ -1,0 +1,21 @@
+owner = CBN
+controller = CBN
+add_core = CBN
+culture = west_indian
+religion = rastafarian
+is_city = yes
+
+trade_goods = cloth
+3053.1.1 = {
+	hre = no
+	base_tax = 8
+	base_production = 8
+	base_manpower = 6
+}
+3053.1.1 = {
+	owner = CBN
+	controller = CBN
+	culture = west_indian
+	religion = rastafarian
+	trade_goods = cloth
+}

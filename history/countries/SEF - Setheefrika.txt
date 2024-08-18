@@ -1,0 +1,26 @@
+# Setheefrika
+setup_vision = yes
+government = monarchy 
+
+government_rank = 2
+mercantilism = 0.1
+technology_group = south_african
+primary_culture = afrikaner
+religion = mwari
+capital = 833
+
+3030.1.1 = {
+monarch = {
+		name = "Willem"
+		dynasty = "Schoppenboer"
+		birth_date = 3030.1.1		
+		adm = 6
+		dip = 5
+		mil = 6
+		leader = {	name = "Ongezellig"            	type = general	fire = 5	shock = 5	manuever = 5	siege = 1}
+	}
+	clear_scripted_personalities = yes
+	add_ruler_personality = inspiring_leader_personality
+	add_ruler_personality = silver_tongue_personality
+}
+

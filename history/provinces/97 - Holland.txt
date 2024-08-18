@@ -1,0 +1,30 @@
+# 97 Holland - Principal cities: Amsterdam, Haarlem & Den Haag
+
+capital = "Amsterdam"
+is_city = no
+culture = dutch
+religion = cult_of_reason
+hre = no
+base_tax = 1
+base_production = 1
+trade_goods = unknown
+base_manpower = 1
+
+
+
+ 
+
+
+
+extra_cost = 25
+
+center_of_trade = 2
+add_permanent_province_modifier = {
+	name = rhine_estuary_modifier
+	duration = -1
+}
+
+
+native_size = 5
+native_ferocity = 10
+native_hostileness = 10

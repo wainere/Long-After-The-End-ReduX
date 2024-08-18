@@ -1,0 +1,15 @@
+owner = SAL
+controller = SAL
+add_core = SAL
+add_core = DST
+
+culture = salish
+religion = raven_tales
+trade_goods = naval_supplies
+is_city = yes
+
+
+hre = no
+base_tax = 2
+base_production = 3
+base_manpower = 2

@@ -1,0 +1,23 @@
+# Washington
+setup_vision = yes
+government = theocracy
+add_government_reform = americanist_presidency_reform
+government_rank = 1
+technology_group = eastern
+primary_culture = beltway
+religion = americanist
+religious_school = washington_school
+
+clear_scripted_personalities = yes
+capital = 4618
+3053.1.1= {
+	monarch = {
+		name = "Solon"
+		birth_date = 3007.10.5
+		dynasty = "Bethesda"
+		adm = 2
+		dip = 4
+		mil = 6
+	}
+	add_ruler_personality = tolerant_personality
+}

@@ -1,0 +1,7 @@
+#1793 - El Djouf
+# = { discovered_by = MOR }
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

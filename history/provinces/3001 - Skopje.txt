@@ -1,0 +1,34 @@
+# - Skopje
+
+#owner = TUR
+#controller = TUR
+culture = serbian
+religion = matrem
+capital = "Skopje"
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1#Many productive Mines. Main Source of Ottoman Silver in 1444.
+base_manpower = 1
+is_city = no
+#add_core= TUR
+#add_core= BUL
+#add_core= SER
+
+ 
+
+ 
+
+
+
+#
+
+
+#  = { unrest = 5 } # General discontent with the Janissaries' dominance
+#  = { unrest = 0 }
+
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3

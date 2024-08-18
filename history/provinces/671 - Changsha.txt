@@ -1,0 +1,45 @@
+#671 - Changsha
+
+#owner = MNG
+#controller = MNG
+#add_core= MNG
+culture = xiang
+religion = confucianism
+capital = "Changsha"
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+is_city = no
+#add_core= CHC
+
+
+
+
+#
+
+
+
+# = { #controller = CXI } # The Xi dynasty of Zhang Xianzhong
+# = {
+	#owner = QNG
+	#controller = QNG
+	#add_core= QNG
+#}
+# = { #controller = MNG }
+# = { #controller = QNG }
+# = {
+	#owner = QNG
+	#controller = QNG
+	#add_core= QNG
+#} # The Qing Conquest of China finishes
+# = {  }
+# = { #controller = CZH } # Three Feudatories revolt
+# = { #controller = QNG }
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3
+

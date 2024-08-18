@@ -1,0 +1,12 @@
+owner = Y54
+controller = Y54
+add_core = Y54
+
+culture = texan
+religion = catholic
+is_city = yes
+
+hre = no
+base_tax = 6
+base_production = 6
+base_manpower = 3

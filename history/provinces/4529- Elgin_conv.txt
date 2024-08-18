@@ -1,0 +1,15 @@
+owner = ONT
+controller = ONT
+add_core = ONT
+add_core = TAL
+
+culture = ontarian
+religion = anglican
+is_city = yes
+
+
+hre = no
+base_tax = 4
+base_production = 3
+base_manpower = 5
+trade_goods = grain

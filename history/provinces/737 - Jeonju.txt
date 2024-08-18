@@ -1,0 +1,30 @@
+#737 - Jeonju
+
+#owner = KOR
+#controller = KOR
+culture = korean
+religion = confucianism
+capital = "Jeonju"
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+is_city = no
+#add_core= KOR
+
+#
+
+ # Tome Pires
+# = { #controller = ODA } # Second Japanese invasion - Battle of Namwon
+# = { #controller = KOR } # The Japanese are forced to retreat
+# = { #add_core= MNG } # Tributary of Qing China
+# = { #add_core= MCH  } # Part of the Manchu empire
+# = { #add_core= QNG  }
+ # Hendrick Hamel
+
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3
+

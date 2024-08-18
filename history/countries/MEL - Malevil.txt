@@ -1,0 +1,19 @@
+setup_vision = yes
+government = tribal 
+add_government_reform = siberian_tribe #Till we make a european equivalent
+primary_culture = gascon
+religion = cult_of_reason
+technology_group = european
+capital = 174 # Bordeaux
+
+3050.1.1 = {
+	monarch = {
+		name = "Emanuel"
+		dynasty = "Comte"
+		birth_date = 3010.1.1 # "Barely in my forties"
+		adm = 4
+		dip = 5
+		mil = 1		
+	}
+}
+

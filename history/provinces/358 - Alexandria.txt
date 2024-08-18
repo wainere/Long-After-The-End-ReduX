@@ -1,0 +1,33 @@
+#358 - Alexandria
+
+owner = EGY
+controller = EGY
+culture = al_misr_arabic
+religion = thelema
+capital = "Al Iskandirya"
+trade_goods = spices
+hre = no
+base_tax = 7 
+base_production = 7
+base_manpower = 5
+is_city = yes
+#estate = #estate_burghers
+add_core = EGY
+fort_15th = yes
+ 
+
+
+
+ 
+
+#
+
+
+
+extra_cost = 15
+
+center_of_trade = 2
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3
