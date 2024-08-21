@@ -1,0 +1,156 @@
+DES_missions_1 = {
+    slot = 1                    # Which column the missions will appear in. 1 to 5.
+    generic = no             # Whether missions within this series are considered generic.
+    ai = yes                  # Whether the AI will claim missions in this series.
+    has_country_shield = yes  # Whether to display the country shield on the icon.    
+  
+    
+    # Determines when a series appears for a country. Country scope.
+    potential = {
+        tag = DES
+    }
+    
+    # The name of the mission, used for localization
+    Unite_the_Mormons = {
+        icon = mission_build_up_to_force_limit            # The icon to use for the mission, without the file extension.
+        position = 1       # Which row the mission appears in. 1 is top. If you omit this line, it will occupy the first row aviable.
+          
+        
+        # Which missions must be completed before this mission is active.
+        required_missions = {}
+        
+        # Determines which provinces to highlight. Acts like all_province scope. Optional.
+        provinces_to_highlight = {
+            province_id = 4522
+			province_id = 4523
+        }
+    
+        # Determines when the mission is completed. Country scope.
+        trigger = {
+            4522 = {
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+			4523 = {
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+			
+        }
+        
+        # The effect executed when the mission is claimed. Country scope.
+        effect = {
+             arizona_area = {
+				limit = {
+					NOT = { owned_by = ROOT }
+					NOT = { is_core = ROOT }
+				}
+				add_permanent_claim = ROOT
+				
+				
+        }
+		add_adm_power = 200
+}
+}
+}
+
+DES_missions_2 = {
+    slot = 1                    # Which column the missions will appear in. 1 to 5.
+    generic = no             # Whether missions within this series are considered generic.
+    ai = yes                 # Whether the AI will claim missions in this series.
+    has_country_shield = yes  # Whether to display the country shield on the icon.    
+    
+    # Determines when a series appears for a country. Country scope.
+    potential = {
+        tag = DES
+    }
+    
+    # The name of the mission, used for localization
+    Incursion_into_Arizona = {
+        icon = mission_invade_island            # The icon to use for the mission, without the file extension.
+        position = 2        # Which row the mission appears in. 1 is top. If you omit this line, it will occupy the first row aviable.
+       
+        
+        # Which missions must be completed before this mission is active.
+        required_missions = { Unite_the_Mormons
+            
+        
+            
+        }
+        
+        # Determines which provinces to highlight. Acts like all_province scope. Optional.
+        provinces_to_highlight = {
+            
+		area = arizona
+        }
+    
+        # Determines when the mission is completed. Country scope.
+        trigger = {
+           		    arizona_area = {
+			    type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+        }
+        
+        # The effect executed when the mission is claimed. Country scope.
+        effect = {
+            colorado_plateau_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+		
+			apacheria_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			
+			}
+			
+        }
+    }
+ }
+ 
+ 
+ 
+ DES_missions_1_1 = {
+    slot = 2                    # Which column the missions will appear in. 1 to 5.
+    generic = no             # Whether missions within this series are considered generic.
+    ai = yes                 # Whether the AI will claim missions in this series.
+    has_country_shield = yes  # Whether to display the country shield on the icon.    
+    
+   
+    # Determines when a series appears for a country. Country scope.
+    potential = {
+        tag = DES
+    }
+    
+    # The name of the mission, used for localization
+		Modernized_Nauvoo_Legion = {
+        icon = mission_assemble_an_army           # The icon to use for the mission, without the file extension.
+        position = 1        # Which row the mission appears in. 1 is top. If you omit this line, it will occupy the first row aviable.
+        
+        
+        # Which missions must be completed before this mission is active.
+        required_missions = {
+            
+        }
+      
+    
+        # Determines when the mission is completed. Country scope.
+        trigger = {
+            army_size_percentage = 1
+        }
+        
+        # The effect executed when the mission is claimed. Country scope.
+        effect = {
+           add_army_tradition = 10
+		   add_army_professionalism = 0.05
+        }
+    }
+}
+
+
+ 

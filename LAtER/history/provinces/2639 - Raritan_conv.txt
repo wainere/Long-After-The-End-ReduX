@@ -3,7 +3,7 @@ controller = NYS
 add_core = NYS
 
 culture = gothamite
-religion = americanist
+religion = jewish
 is_city = yes
 
 

@@ -1,7 +1,7 @@
 #652 - Maguindanao
 
 culture = filipino
-religion = sacred_heart
+religion = sunni
 capital = "Maguindanao"
 trade_goods = unknown
 hre = no
